@@ -1,0 +1,2022 @@
+{
+  "Kindergarten": {
+    "Without Image": {
+      "Counting": {
+        "Counting small numbers": "count in order",
+        "Numbers 0 to 100": "find missing numbers within 100",
+        "Comparing small numbers": "Comparing numbers to 10",
+        "Teens": "make teen numbers"
+      },
+      "Addition and Subtraction": {
+        "Add within 10": "Add within 10",
+        "Subtraction within 10": "Subtract within 10"
+      }
+    },
+    "With Image": {
+      "Measurement and geometry": {
+        "Comparing size": "Comparing size of image",
+        "Comparing length": "Comparing length of image",
+        "Basic shapes": "Name the shapes"
+      }
+    }
+  },
+  "USA grade 1": {
+    "Without Image": {
+      "Place Value": {
+        "Numbers from 0 to 120": "Count numbers from 0 to 120. Problem: What number comes before 105? Answer: 104",
+        "Ones and Tens": "Understand the ones and tens places. Problem: Write the number equivalent to 3 groups of 10 plus 24 units. Answer: 54",
+        "Comparing Two-digit numbers": "Compare the sizes of two-digit numbers. Problem: Arrange 84, 21, 33, 47 in ascending order. Answer: 21, 33, 47, 84"
+      },
+      "Addition and Subtraction": {
+        "Relate addition and subtraction": "Understand the relationship between addition and subtraction. Problem: Find X. 9 - 7 = X because X + 7 = 9. Answer: 2",
+        "Addition within 20": "Add numbers within 20. Problem: Sam ate 3 jellies, 5 candies, and 2 chocolates. Total items? Answer: 10",
+        "Subtraction within 20": "Subtract numbers within 20. Problem: 16 - 8 = X. Answer: 8",
+        "Equal sign": "Determine the correct equation. Problem: Choose the correct equation. 4 + 1 = 7 - 2, 4 - 2 = 0 + 3, 8 - 7 = 1 + 1. Answer: 4 + 1 = 7 - 2",
+        "Missing Number within 20": "Find a missing number in subtraction. Problem: 16 = X + 8. Answer: 8",
+        "Word problems with 'more' and 'fewer'": "Solve word problems using 'more' and 'less'. Problem: Xavier saw 6 monkeys today, 3 fewer than last Saturday. Monkeys last Saturday? Answer: 9"
+      }
+    },
+    "With Image": {
+      "Measurement, Data, and Geometry": {
+        "Length": "Compare the length of rods. Problem: Arrange three rods from shortest to longest.",
+        "Size": "Compare sizes of animals. Problem: Arrange dog, cat, rabbit from largest to smallest. Answer: Dog, Cat, Rabbit.",
+        "Shapes": "Identify shapes. Problem: Among three shapes, which is the triangle?",
+        "Fractions of shape": "Divide shapes into equal parts. Problem: Which square is divided into three equal parts?"
+      }
+    }
+  },
+  "USA grade 2": {
+    "Without Image": {
+      "Add and subtract within 20": {
+        "Add within 20": "Add numbers within 20. Problem: 6 + 11 = X. Answer: 17",
+        "Subtract within 20": "Subtract numbers within 20. Problem: 9 - 3 = X. Answer: 6",
+        "Add and subtract within 20": "Mixed calculations of addition and subtraction within 20."
+      },
+      "Place Value": {
+        "Numbers in word form": "Represent three-digit numbers in word form. Problem: What is 842 in word form? Answer: Eight hundred forty-two",
+        "Regroup whole numbers": "Regroup a given three-digit number. Problem: Which expression represents the same amount as 823? Answer: 800 + 10 + 10 + 3",
+        "Comparing 3 digit numbers": "Compare numbers within three digits using <, >, or =. Problem: 417 + 10 + 10 ? 437. Answer: =",
+        "Counting patterns within 1000": "Skip counting by 5s, 10s, or 100s. Problem: Fill in the blanks by counting by 100s. ___, 374, ___, ___, 674. Answer: 274, 474, 574"
+      },
+      "Add and subtract within 100": {
+        "Strategies for adding within 100": "Use various addition strategies within 100. Problem: State any strategy that can be used to add 48 + 39. Answer: Add 48 + 40 then subtract 1, Add 48 + 2 then add 37.",
+        "Addition and subtraction: missing values": "Find the missing number within 100. Problem: What number makes this equation true? 73 = X + 57. Answer: 16",
+        "Addition within 100(multi-step)": "2-step addition within 100. Problem: Dan brought 33 vanilla cupcakes and 52 chocolate cupcakes to his school bake sale. Then his friend brought 5 more cupcakes. How many total cupcakes did the bake sale have to sell? Answer: 90 cupcakes",
+        "subtraction within 100(multi-step)": "2-step subtraction within 100. Problem: There are 53 cars parked at the movie theatre. 29 cars drove away after the first movie. 7 cars drove away after the second movie. How many cars are still in the parking lot after the second movie? Answer: 17 cars"
+      },
+      "Add and subtract within 1000": {
+        "Strategies for calculating addition within 1000": "Use various addition strategies within 1000. Problem: State any strategy that can be used to add 855 + 52. Answer: Add 850 + 50 + 5 + 2, Add 800 + 50 + 50 + 5 + 2",
+        "Adding up to four 2-digit numbers": "Add up to four 2-digit numbers. Problem: Tomer has a bookshelf. The table below shows how many books are on each shelf. 1st shelf: 19 books, 2nd shelf: 24 books, 3rd shelf: 32 books, 4th shelf: 7 books. How many books are on the bookshelf all together? Answer: 82 books"
+      },
+      "Data": {
+        "Picture graphs": "Analyze a generated picture graph.",
+        "Bar graphs": "Analyze a generated Bar graph.",
+        "Line plots": "Analyze a generated line plots."
+      },
+      "Measurement": {
+        "Units of length": "Select units of length appropriately in contexts. Problem: Which unit would probably be used to measure how long a book is? Inches or Feet. Answer: Inches",
+        "Length": "Add lengths. Problem: Harry and his wizard friends measured the lengths of their broomsticks. Harry's broomstick has a length of 59 inches and Ron's broomstick has a length of 54 inches. How much longer is Harry's broomstick than Ron's broomstick? Answer: 5 inches"
+      }
+    },
+    "With Image": {
+      "Add and subtract within 20": {
+        "Add using arrays": "The number represented arrays in generating svg images. Problem: A squirrel was preparing for winter. She arranged her acorns by putting them in rows with acorns in each row. Which image below shows how the squirrel arranged her acorns? Answer: 4 + 4"
+      },
+      "Place Value": {
+        "Even and odd numbers": "Determine whether the number of objects in a generating svg image is even or odd. Problem: Which image shows an odd number of bananas?"
+      },
+      "Add and subtract within 100": {
+        "Visually adding within 100": "Add on number line within 100 in generating svg images. Problem: What number does the number line represent?",
+        "Visually subtract within 100": "Subtract on a number line within 100 in generating svg images. Problem: What number does the number line represent?"
+      },
+      "Add and subtract within 1000": {
+        "Visually adding within 1000": "Add on number line within 1000 in generating svg images. Problem: What number does the number line represent?",
+        "Visually subtracting within 1000": "Subtract on number line within 1000 in generating svg images. Problem: What number does the number line represent?"
+      },
+      "Money": {
+        "Counting money": "Count money. Problem: Ari had 2 ten dollar bills, 1 five dollar bill, and 1 one dollar bill in her piggy bank before her birthday. On her birthday, she got one dollar bills and ten dollar bill. How much money does Ari have now? Answer: $38"
+      },
+      "Time": {
+        "Reading time": "Read analog clock."
+      },
+      "Measurement": {
+        "Measure lengths": "Measure length in different units. Problem: The length of a rectangle is measured in jumbo paperclips and in centimeters. Answer: The rectangle is 4 jumbo paperclips long. The rectangle is 6 centimeters long.",
+        "Estimate lengths": "Compare the sizes of generated images using ft or inch. Problem: The horse has a length of 9 feet. About how long is the dog? Answer: 3 feet."
+      },
+      "Data": {
+        "Picture graphs": "Analyze a generated picture graph.",
+        "Bar graphs": "Analyze a generated Bar graph.",
+        "Line plots": "Analyze a generated line plots."
+      },
+      "Geometry": {
+        "Shapes": "Analyze generated shapes. Problem: How many sides does a triangle have? Answer: 3 sides",
+        "Equal Parts of shapes": "Divide equal parts of rectangles or circles. Problem: Which circle is divided into thirds?",
+        "Partition rectangles": "Partition rectangles. Problem: Which rectangle is split into 7 rows with 1 column of same-size squares?"
+      }
+    }
+  },
+  "USA grade 3": {
+    "With Image": {
+      "What is Multiplication?": {
+        "Multiplication on the Number Line": "Represent multiplication on a number line.",
+        "Multiplication as groups of objects": "Express the given group of images through multiplication.",
+        "Multiplication with arrays": "Express the given arrays image through multiplication."
+      },
+      "Understanding Fractions": {
+        "Fractions on the number line": "Represent fractions on a number line.",
+        "Whole Numbers and Fractions": "Express the given image as fractions."
+      },
+      "Quadrilaterals": {
+        "Identify quadrilaterals": "Find quadrilaterals that meet the conditions.",
+        "Analyze quadrilaterals": "Analyze the sides and angles of quadrilaterals.",
+        "Classify quadrilaterals": "Classify quadrilaterals by type."
+      },
+      "Area": {
+        "Count unit squares to find area": "Compare area with unit squares.",
+        "Area formula intuition": "Transition from unit squares to area formula.",
+        "Multiply to find area": "Compare areas by multiplying.",
+        "Area and the distributive property": "Explore the area and the distributive property visually.",
+        "Decompose figures to find area": "Find the area of 2 rectangles that are joined together."
+      },
+      "Perimeter": {
+        "Perimeter of polygons with missing side lengths": "Find perimeter when a side length is missing.",
+        "Comparing Area and Perimeter": "Solve area and perimeter word problems."
+      },
+      "Time": {
+        "Time on the number line": "Tell time on the number line.",
+        "Telling time": "Tell time to the nearest minute.",
+        "Elapsed time": "Solve time word problems within the hour."
+      },
+      "Measurement": {
+        "Mass": "Solve word problems with mass.",
+        "Volume": "Solve word problems with volume."
+      },
+      "Representing and Interpreting Data": {
+        "Picture Graphs": "Read and interpret picture graphs in multi-step problems.",
+        "Bar Graphs": "Read and interpret bar graphs in 2-step problems.",
+        "Fractions and Dot Plots": "Interpret line plots that include data with fractions."
+      }
+    },
+    "Without Image": {
+      "What is Multiplication?": {
+        "Multiplication as equal groups": "Relate repeated addition to multiplication. Problem: Which expression equals 4 X 9? Answer: 9+9+9+9",
+        "Commutative property of multiplication": "Practice the commutative property of multiplication."
+      },
+      "One-digit Multiplication": {
+        "Distributive property": "Practice the distributive property of multiplication.",
+        "Multiplying by 0": "Multiply by 0.",
+        "One-digit Multiplication": "Multiply by single-digit numbers."
+      },
+      "Addition, Subtraction, and estimation": {
+        "Rounding to the nearest ten or hundred": "Round to the nearest ten or hundred.",
+        "Estimate to add multi-digit numbers": "Estimate the sum of a multi-digit number addition.",
+        "Add within 1000": "Add numbers within 1000.",
+        "Estimate to subtract multi-digit numbers": "Estimate the result of a multi-digit number subtraction."
+      },
+      "What is Division?": {
+        "Relating multiplication and division": "Convert a division expression into a multiplication expression.",
+        "One-digit Division": "Divide by a single-digit number."
+      },
+      "Understanding Fractions": {
+        "Fractions in contexts": "Express real-life situations as fractions.",
+        "Comparing fractions": "Compare fractions with the same numerator or denominator.",
+        "Equivalent fractions": "Find equivalent fractions of the same size."
+      },
+      "Comparing Fractions and equivalent fractions": {
+        "Comparing fractions": "Compare fractions with the same numerator or denominator.",
+        "Equivalent fractions": "Find equivalent fractions of the same size."
+      },
+      "More with Multiplication and Division": {
+        "Multiplication and division word problems": "Solve multiplication and division problems within 100.",
+        "Associative property of multiplication": "Practice using the associative property to multiply 2-digit numbers by 1-digit.",
+        "Multiplying by tens": "Multiply by tens."
+      },
+      "Arithmetic patterns and problem solving": {
+        "2-step expression": "Solve a 2-step expression.",
+        "Solving problems in 2-steps": "Solve arithmetic problems in 2-steps.",
+        "Patterns in arithmetic": "Explore patterns in arithmetic."
+      },
+      "Representing and Interpreting Data": {
+        "Picture Graphs": "Read and interpret picture graphs in multi-step problems.",
+        "Bar Graphs": "Read and interpret bar graphs in 2-step problems.",
+        "Fractions and Dot Plots": "Interpret line plots that include data with fractions."
+      }
+    }
+  },
+  "USA grade 4": {
+    "With Image": {
+      "Multiply by 1-digit numbers": {
+        "Multi-digit multiplication: place value and area models": "Multiply 3- and 4-digits by 1-digit with area models."
+      },
+      "Multiply by 2-digit numbers": {
+        "Multiply 2-digit numbers with area models": "Multiply 2-digit numbers with area models."
+      },
+      "Division": {
+        "Division with area models": "Divide by 1-digit numbers with area models."
+      },
+      "Equivalent fractions and comparing fractions": {
+        "Comparing fractions with unlike denominators visually": "Visually compare fractions with unlike denominators."
+      },
+      "Add and subtract fractions": {
+        "Line plots with fractions": "Interpret line plots with fraction addition and subtraction."
+      },
+      "Multiply fractions": {
+        "Multiplying fractions and whole numbers visually": "Multiply fractions and whole numbers with fraction models."
+      },
+      "Plane figures": {
+        "Types of plane figures": "Identify points, lines, line segments, rays, and angles.",
+        "Angle introduction": "Recognize angles in figures.",
+        "Parallel and perpendicular": "Identify parallel and perpendicular lines.",
+        "Classifying triangles": "Classify triangles by both sides and angles.",
+        "Classifying geometric shapes": "Classify shapes by line and angle types.",
+        "Line of symmetry": "Identify line symmetry."
+      },
+      "Measuring angles": {
+        "Understanding Angle Measurements": "Types of angles by measure.",
+        "Measuring angles": "Measure angles with a protractor.",
+        "Decomposing angles": "Decompose angles with a protractor."
+      },
+      "Perimeter and Area": {
+        "Perimeter and Area": "Represent rectangle measurements."
+      },
+      "Units of measurement": {
+        "Estimating mass": "Estimating mass (ounces and pounds).",
+        "Estimating volume": "Estimating volume (cups, pints, quarts, and gallons).",
+        "Estimating length": "Estimating length (in, ft, yd, and mi).",
+        "Time": "Time differences.",
+        "Converting units of mass": "Convert to smaller units (oz and lb).",
+        "Converting units of volume": "Convert to smaller units (c, pt, qt, & gal).",
+        "Converting units of length": "Convert to smaller units (in, ft, yd, & mi).",
+        "Converting units of time": "Convert to smaller units (sec, min, & hr).",
+        "Money problems": "Convert money.",
+        "Conversion problems": "US customary conversion."
+      }
+    },
+    "Without Image": {
+      "Place Value": {
+        "Creation largest or smallest number": "Arrange the given six number cards to create both the largest and the smallest number possible.",
+        "Writing whole numbers in expanded form": "Convert the given number with five or more digits into expanded form.",
+        "Writing whole numbers in written form": "Convert the given number with five or more digits into written form.",
+        "Regrouping whole numbers": "Regroup the given whole numbers.",
+        "How 10 relates to place value": "Explore place value when multiplying and dividing by 10.",
+        "Comparing multi-digit numbers": "Compare multi-digit numbers written in different forms."
+      },
+      "Addition, subtraction, and estimation": {
+        "Rounding whole numbers": "Solve rounding whole numbers word problems.",
+        "Adding multi-digit numbers": "Add numbers with five or more digits.",
+        "Subtracting multi-digit numbers": "Subtract numbers with five or more digits."
+      },
+      "Multiply by 1-digit numbers": {
+        "Comparing with multiplication": "Compare using multiplication.",
+        "Multiplication by 10s, 100s, and 1000s": "Multiply 1-digit numbers by multiples of 10, 100, and 1000.",
+        "Estimate products": "Estimate products (1-digit times 2, 3, and 4-digit).",
+        "Multiply with partial products": "Multiply with regrouping."
+      },
+      "Multiply by 2-digit numbers": {
+        "Multiply by 10s": "Multiplying 10s each other.",
+        "Estimate products (2-digit numbers)": "Estimate the value of multiplication of 2-digit numbers."
+      },
+      "Division": {
+        "Remainders": "Divide with remainders (2-digit by 1-digit).",
+        "Divide multiples of 10, 100, and 1,000 by 1-digit numbers": "Divide multiples of 10, 100, and 1,000 by 1-digit numbers.",
+        "Division with place value": "Divide using place value.",
+        "Estimate quotients": "Estimate quotients (3- and 4-digit divided by 1-digit).",
+        "Multi-digit division with partial quotients": "Divide multi-digit numbers by 1-digit numbers (with remainders).",
+        "Multi-step word problems": "Solve multi-step word problems with whole numbers."
+      },
+      "Factors, multiples, and patterns": {
+        "Factors and multiples": "Identify multiples.",
+        "Prime and composite numbers": "Classify prime and composite numbers.",
+        "Math patterns": "Explore patterns with shapes."
+      },
+      "Equivalent fractions and comparing fractions": {
+        "Equivalent fractions": "Use equivalent fractions to find the variable.",
+        "Common denominators": "Find common denominators.",
+        "Comparing fractions with unlike denominators": "Compare fractions with different numerators and denominators."
+      },
+      "Add and subtract fractions": {
+        "Decomposing fractions": "Decompose fractions.",
+        "Adding and subtracting fractions with like denominators": "Add and subtract fractions with common denominators.",
+        "Mixed Numbers": "Convert a mixed number to an improper fraction.",
+        "Adding and subtracting mixed numbers": "Add and subtract mixed numbers.",
+        "Fractions with denominators of 10 and 100": "Add fractions with denominators of 10 and 100.",
+        "Line plots with fractions": "Interpret line plots with fraction addition and subtraction."
+      },
+      "Multiply fractions": {
+        "Multiplying whole numbers and fractions": "Multiply fractions and whole numbers.",
+        "Multiplying whole numbers and mixed numbers": "Multiply mixed numbers and whole numbers."
+      },
+      "Understand decimals": {
+        "Decimal fractions": "Write decimals and fractions shown on grids.",
+        "Decimal fractions greater than 1": "Write decimals and fractions greater than 1 shown on grids.",
+        "Writing fractions as decimals": "Convert fractions to decimals (denominators 10 and 100).",
+        "Decimals in word form": "Relate decimals and fractions in words.",
+        "Decimals on the Number Line": "Place decimals on the number line.",
+        "Regrouping decimals": "Explore decimal place value with regrouping.",
+        "Writing decimals as fractions": "Convert decimals to fractions.",
+        "Common fractions and decimals": "Write common decimals as fractions, write common fractions as decimals.",
+        "Comparing decimals visually": "Compare decimals and fractions in different forms visually.",
+        "Comparing decimals": "Compare decimals (tenths and hundredths)."
+      }
+    }
+  },
+  "USA grade 5": {
+    "With Image": {
+      "Volume": {
+        "Volume with unit cubes": "Use unit cubes to demonstrate how to calculate volume.",
+        "Volume of rectangular prisms": "Visualize and calculate the volume of rectangular prisms.",
+        "Decompose figures to find volume": "Learn how to decompose complex figures to calculate volume effectively."
+      },
+      "Coordinate plane": {
+        "Coordinate plane": "Introduce and practice plotting points and finding distances in the first quadrant of the coordinate plane."
+      },
+      "Algebraic thinking": {
+        "Writing expressions": "Use visuals to demonstrate how to write algebraic expressions correctly.",
+        "Number patterns": "Explore and represent relationships between patterns using visual aids."
+      },
+      "Converting units of measure": {
+        "Converting units of time": "Use images and diagrams to help understand the conversion of units of time.",
+        "Converting metric units": "Visual aids to support understanding of metric unit conversions.",
+        "Converting US Customary units": "Graphical representation of U.S. customary unit conversions."
+      },
+      "Line plots": {
+        "Graph data on line plots": "Visualize how to graph data on line plots involving fractional measurements.",
+        "Interpret data on line plots": "Use plots to interpret data and solve problems involving fractions."
+      },
+      "Properties of shapes": {
+        "Triangles": "Visual classification of triangles based on sides and angles.",
+        "Quadrilaterals": "Identify and classify different types of quadrilaterals using visual aids.",
+        "Properties of shapes": "Explore and learn the properties of various geometric shapes through images."
+      }
+    },
+    "Without Image": {
+      "Decimal place value": {
+        "Decimals on the number line": "Practice placing and reading decimals to thousandths on a number line.",
+        "Decimals in expanded form": "Express decimals in expanded form using powers of ten.",
+        "Decimals in written form": "Learn to write decimals in words accurately.",
+        "Comparing decimals": "Develop skills to compare decimals up to thousandths.",
+        "Rounding decimals": "Understand and apply rounding rules to decimal numbers."
+      },
+      "Add decimals": {
+        "Common fractions and decimals": "Convert between common fractions and their decimal equivalents.",
+        "Adding decimals (tenths)": "Practice adding decimals in the tenths place.",
+        "Adding decimals (hundredths)": "Learn to add decimals in the hundredths place accurately."
+      },
+      "Subtract decimals": {
+        "Subtracting decimals (tenths)": "Subtract decimals involving tenths.",
+        "Subtracting decimals (hundredths)": "Handle subtraction of decimals in the hundredths place."
+      },
+      "Add and subtract fractions": {
+        "Common denominator": "Find common denominators to simplify addition and subtraction of fractions.",
+        "Adding and subtracting fractions with unlike denominators": "Add and subtract fractions with different denominators effectively.",
+        "Adding and subtracting mixed numbers with unlike denominators": "Work with mixed numbers that have different denominators."
+      },
+      "Multi-digit multiplication and division": {
+        "Multi-digit multiplication": "Solve problems involving multiplication of multi-digit numbers.",
+        "Multi-digit division": "Practice division involving multi-digit dividends and divisors."
+      },
+      "Multiply fractions": {
+        "Multiplication as scaling": "Understand fraction multiplication as a form of scaling.",
+        "Multiplying fractions and whole numbers": "Multiply fractions by whole numbers.",
+        "Multiplying fractions": "Learn to multiply fractions effectively.",
+        "Multiplying mixed numbers": "Multiply mixed numbers by fractions or other mixed numbers."
+      },
+      "Divide fractions": {
+        "Fractions as division": "Understand and solve problems that represent division using fractions.",
+        "Relate fraction division to fraction multiplication": "Connect concepts of fraction division to multiplication for better understanding.",
+        "Dividing unit fractions by whole numbers": "Learn how to divide unit fractions by whole numbers.",
+        "Dividing whole numbers by unit fractions": "Divide whole numbers by unit fractions efficiently."
+      },
+      "Multiply decimals": {
+        "Multiplying decimals and whole numbers": "Multiply whole numbers by decimals correctly.",
+        "Multiplying decimals": "Multiply decimals up to four-digit factors efficiently."
+      },
+      "Divide decimals": {
+        "Divide whole numbers to get a decimal quotient": "Divide whole numbers resulting in decimal quotients.",
+        "Divide decimals by whole numbers": "Learn the technique to divide decimals by whole numbers.",
+        "Divide whole numbers by decimals": "Divide whole numbers by decimals to understand inverse relationships."
+      },
+      "Powers of ten": {
+        "Multiplying and dividing whole numbers by 10, 100, and 1000": "Use powers of ten to multiply or divide whole numbers.",
+        "Multiplying and dividing decimals by 10, 100, and 1000": "Apply powers of ten to decimal operations.",
+        "Powers of 10": "Explore the concept and application of powers of ten in various contexts.",
+        "Multiplying and dividing with powers of 10": "Use powers of ten to facilitate easier multiplication and division.",
+        "Comparing decimal place values": "Compare and understand the place value of decimals."
+      },
+      "Line plots": {
+        "Graph data on line plots": "Visualize how to graph data on line plots involving fractional measurements.",
+        "Interpret data on line plots": "Use plots to interpret data and solve problems involving fractions."
+      }
+    }
+  },
+  "USA grade 6": {
+    "With Image": {
+      "Plane figures": {
+        "Areas of parallelograms": "Calculate the area of parallelograms using visual methods to find missing lengths.",
+        "Areas of triangles": "Use visuals to help find missing measurements when calculating the area of triangles.",
+        "Area of composite figures": "Determine the area of composite shapes using graphical methods."
+      },
+      "Coordinate plane": {
+        "Four quadrants": "Introduce plotting points and calculating distances across all four quadrants of the coordinate plane.",
+        "Distance on the coordinate plane": "Use visual aids to solve problems involving distances on the coordinate plane.",
+        "Polygons on the coordinate plane": "Solve problems involving the placement and analysis of polygons on the coordinate plane."
+      },
+      "3D figures": {
+        "Geometric solids (3D shapes)": "Identify various 3D shapes using visual examples.",
+        "Volume with fractions": "Calculate volume in terms of fractions and decimals using visual models.",
+        "Nets of 3D figures": "Use nets to understand and calculate the surface area of 3D figures.",
+        "Surface area": "Calculate the surface area of different 3D figures using visual aids."
+      },
+      "Data and statistics": {
+        "Statistical questions": "Use visual examples to differentiate between statistical and non-statistical questions.",
+        "Dot plots & frequency tables": "Analyze and interpret data using dot plots and frequency tables with visual examples.",
+        "Histograms": "Learn to read and interpret histograms through visual data representation.",
+        "Mean and median": "Use visual aids to calculate and understand the mean and median of data sets.",
+        "Interquartile range (IQR)": "Understand and calculate the interquartile range using box plots.",
+        "Box plots": "Read and interpret box plots using visual data.",
+        "Mean absolute deviation (MAD)": "Calculate the mean absolute deviation of data sets using visual aids.",
+        "Comparing data displays": "Use visual comparisons to analyze different data displays.",
+        "Shape of data distributions": "Examine the shape of data distributions including clusters, gaps, and peaks through visual representations."
+      }
+    },
+    "Without Image": {
+      "Ratios": {
+        "Visualize equivalent ratios": "Understand and create visual representations for equivalent ratios.",
+        "Equivalent ratios": "Explore the concept of equivalent ratios through various forms.",
+        "Ratio application": "Apply understanding of ratios to part-part-whole scenarios."
+      },
+      "Arithmetic with rational numbers": {
+        "Adding decimals": "Add decimals to the thousandths place.",
+        "Subtracting decimals": "Subtract decimals to the thousandths.",
+        "Dividing fractions and whole numbers": "Divide whole numbers by fractions.",
+        "Dividing fractions by fractions": "Understand and practice dividing fractions by other fractions.",
+        "Multiplying decimals": "Multiply decimals using the standard algorithm.",
+        "Dividing whole numbers": "Practice multi-digit division.",
+        "Dividing decimals": "Divide decimals to the thousandths place."
+      },
+      "Rates and percentages": {
+        "Equivalent representations of percent problems": "Explore different ways to represent percent problems.",
+        "percent": "Solve various percent problems.",
+        "Rates": "Understand and solve rate problems."
+      },
+      "Exponents and order of operations": {
+        "Meaning of exponents": "Explore the concept and application of exponents.",
+        "Powers of whole numbers": "Calculate powers of whole numbers.",
+        "Powers of fractions and decimals": "Understand powers when applied to fractions and decimals.",
+        "Order of operations introduction": "Learn the correct order of operations for calculations without exponents.",
+        "More on order of operations": "Advanced order of operations involving fractions and exponents."
+      },
+      "Negative numbers": {
+        "Negative symbol as opposite": "Explore the concept of negative numbers as opposites on the number line.",
+        "Rational numbers on the number line": "Place negative decimals and fractions on the number line.",
+        "Comparing negative numbers": "Practice writing numerical inequalities with negative numbers.",
+        "Ordering rational numbers": "Order a set of rational numbers including negatives.",
+        "Comparing absolute values": "Compare the absolute values of numbers to understand their magnitude."
+      },
+      "Variables and expressions": {
+        "Parts of algebraic expressions": "Identify and understand different parts of algebraic expressions.",
+        "Substitution & evaluating expressions": "Evaluate expressions with variables and exponents.",
+        "Evaluating expressions with multiple variables": "Evaluate complex expressions involving fractions and decimals.",
+        "Expression value intuition": "Develop intuition for the value of expressions.",
+        "Least common multiple": "Find the least common multiple for sets of numbers.",
+        "Greatest common factor": "Identify the greatest common factor in various scenarios.",
+        "Distributive property with variables": "Apply the distributive property to factor expressions involving variables.",
+        "Combining like terms": "Learn to combine like terms in algebraic expressions.",
+        "Equivalent expressions": "Identify and create equivalent expressions using algebraic properties."
+      },
+      "Equations and inequalities": {
+        "Algebraic equations basics": "Test potential solutions to simple algebraic equations.",
+        "One-step addition & subtraction equations": "Solve one-step equations involving fractions and decimals.",
+        "One-step multiplication and division equations": "Handle one-step equations that involve multiplication or division of fractions and decimals.",
+        "Finding mistakes in one-step equations": "Identify errors in the solving of one-step equations.",
+        "Dependent and independent variables": "Differentiate between independent and dependent variables in contexts.",
+        "Analyzing relationships between variables": "Analyze the relationships expressed in algebraic equations."
+      }
+    }
+  },
+  "USA grade 7": {
+    "With Image": {
+      "Geometry": {
+        "Area and circumference of circles": "Explore the area and circumference of parts of circles using diagrams.",
+        "Vertical, complementary, and supplementary angles": "Use visuals to find angle measures between intersecting lines.",
+        "Missing angle problems": "Solve unknown angle problems with algebra, enhanced with visuals.",
+        "Constructing triangles": "Show the rules for triangle side lengths using diagrams.",
+        "Slicing geometric shapes": "Visualize cross sections of 3D objects.",
+        "Volume and surface area": "Study volume and surface area using visual models."
+      },
+      "Scale copies": {
+        "Scale copies": "Visualize and create scale copies of figures."
+      }
+    },
+    "Without Image": {
+      "Proportional relationships": {
+        "Constant of proportionality": "Identify the constant of proportionality from tables and equations.",
+        "Compare and interpret constants of proportionality": "Compare various constants of proportionality.",
+        "Identifying proportional relationships": "Determine if relationships are proportional from data.",
+        "Equations of proportional relationships": "Develop skills to write equations representing proportional relationships."
+      },
+      "Rates and percentages": {
+        "Rate problems with fractions": "Solve rate problems involving fractions.",
+        "Converting fractions to decimals": "Convert fractions to decimals accurately.",
+        "Percent": "Solve real-world problems involving discount, markup, commission, tax, and tips."
+      },
+      "Integers: addition and subtraction": {
+        "Adding negative numbers fluently": "Practice adding negative numbers.",
+        "Subtracting negative numbers fluently": "Master the subtraction of negative numbers.",
+        "Adding & subtracting negative numbers: variables": "Solve one-step equations involving addition and subtraction of negatives."
+      },
+      "Rational numbers: addition and subtraction": {
+        "Absolute value": "Use absolute value to find distances on the number line.",
+        "Adding & subtracting negative fractions": "Work with negative fractions in addition and subtraction.",
+        "Adding & subtracting rational numbers": "Add and subtract various rational numbers.",
+        "Properties of addition & subtraction": "Explore properties through equivalent expressions with negative numbers."
+      },
+      "Negative numbers: multiplication and division": {
+        "Multiply & divide negative numbers": "Solve one-step equations involving multiplication and division of negatives.",
+        "Understanding multiplying and dividing fractions": "Delve into multiplying and dividing fractions with negatives.",
+        "Multiply negative fractions": "Multiply negative fractions effectively.",
+        "Divide negative fractions": "Divide mixed numbers with negative fractions.",
+        "Powers with rational bases": "Explore exponents with negative fractional bases.",
+        "Order of operations": "Apply order of operations rules including operations with negatives.",
+        "Properties of multiplication & division": "Study equivalent expressions with negative numbers through multiplication and division."
+      },
+      "Expressions, equations, and inequalities": {
+        "Combining like terms": "Combine like terms with rational coefficients.",
+        "The distributive property & equivalent expressions": "Apply the distributive property with variables involving negative numbers.",
+        "Interpreting linear expressions": "Interpret and analyze linear expressions for various scenarios.",
+        "Two-step equations with decimals and fractions": "Identify errors in two-step equations involving decimals and fractions.",
+        "One-step inequalities": "Solve one-step inequalities effectively.",
+        "Two-step inequalities": "Solve two-step inequalities."
+      },
+      "Statistics and probability": {
+        "Basic probability": "Understand and compare basic probabilities.",
+        "Probability models": "Use probability models to make accurate predictions.",
+        "Compound events and sample spaces": "Calculate probabilities of compound events.",
+        "Comparing and sampling populations": "Compare statistical distributions of different populations."
+      }
+    }
+  },
+  "USA grade 8": {
+    "With Image": {
+      "Systems of equations": {
+        "Systems of equations with graphing": "Solve systems of equations using graphing techniques.",
+        "Solving systems with substitution": "Apply substitution methods to solve systems of equations.",
+        "Number of solutions to systems of equations": "Determine the number of solutions to systems of equations algebraically."
+      },
+      "Geometry": {
+        "Angles between intersecting lines": "Use diagrams to solve for angles formed by intersecting lines.",
+        "Triangle angles": "Find angle measures in triangles using visual aids.",
+        "Pythagorean theorem": "Apply the Pythagorean theorem to find side lengths in triangles, illustrated with diagrams.",
+        "Pythagorean theorem application": "Explore the application of the Pythagorean theorem in three dimensions.",
+        "Pythagorean theorem and distance between points": "Calculate the distance between points using the Pythagorean theorem.",
+        "Volume": "Calculate the volume of cylinders, spheres, and cones with visual aids."
+      },
+      "Geometric transformations": {
+        "Translations": "Demonstrate translations of shapes visually.",
+        "Rotations": "Visualize rotations of objects to understand their properties.",
+        "Reflections": "Reflect shapes across axes using visual guides.",
+        "Properties & definitions of transformations": "Understand rigid transformations and their properties through visual examples.",
+        "Dilation": "Explore dilations and their properties using visual representations.",
+        "Congruence and similarity": "Study the concepts of congruence and similarity through transformations with visual aids."
+      },
+      "Data and modeling": {
+        "Interpreting scatter plots": "Analyze linear associations in scatter plots visually.",
+        "Estimating lines of best fit": "Use scatter plots to estimate lines of best fit.",
+        "Two-way tables": "Analyze and interpret data from two-way tables using visual aids."
+      }
+    },
+    "Without Image": {
+      "Numbers and operations": {
+        "Repeating decimals": "Convert repeating decimals to fractions.",
+        "Square roots & cube roots": "Solve equations involving square roots and cube roots.",
+        "Irrational numbers": "Identify and classify irrational numbers.",
+        "Approximating irrational numbers": "Compare and approximate values of irrational numbers.",
+        "Exponents with negative bases": "Explore the properties of exponents with negative bases.",
+        "Negative exponents": "Study the effects and calculations involving negative exponents.",
+        "Exponent properties (integer exponents)": "Explore the laws governing operations with exponents.",
+        "Working with powers of 10": "Use powers of ten for approximation and calculation.",
+        "Arithmetic with numbers in scientific notation": "Perform operations with numbers expressed in scientific notation."
+      },
+      "Solving equations with one unknown": {
+        "Equations with variables on both sides": "Solve equations that have variables on both sides.",
+        "Equations with parentheses": "Work through equations that include parentheses.",
+        "Number of solutions to equations": "Determine how many solutions exist for given equations."
+      },
+      "Linear equations and functions": {
+        "Graphing proportional relationships": "Explore rates and proportional relationships.",
+        "Solutions to linear equations": "Find complete solutions to two-variable linear equations.",
+        "Intercepts": "Determine intercepts from linear equations.",
+        "Slope": "Calculate the slope from equations.",
+        "Graphing slope-intercept form": "Graph linear equations in slope-intercept form.",
+        "Functions": "Derive function rules from equations.",
+        "Linear models": "Solve word problems using linear models.",
+        "Comparing linear functions": "Compare various linear functions.",
+        "Constructing linear models for real-world relationships": "Develop linear functions based on real-world data.",
+        "Recognizing functions": "Identify functions from data presented in tables.",
+        "Linear and nonlinear functions": "Distinguish between linear and nonlinear functions."
+      }
+    }
+  },
+  "Algebra 1": {
+    "Without Image": {
+      "Algebra foundation": {
+        "Introduction to variables": "Evaluating expressions with one variable",
+        "Substitution and evaluation expressions": "Evaluating expressions with multiple variables",
+        "Combinig like terms": "Combining like terms with rational coefficients",
+        "Division by zero": "The problem with dividing zero by zero"
+      },
+      "Solving equations & inequalities": {
+        "Linear equations with variables on both sides": "Equations with variables on both sides",
+        "Linear equations with parentheses": "Equations with parentheses",
+        "Analyzing the number of solutions to linear equations": "Number of solutions to equations",
+        "Linear equations with unknown coefficients": "Linear equations with unknown coefficients",
+        "Multi-step inequalities": "Multi-step linear inequalities",
+        "Compound inequalities": "Compound inequalities"
+      },
+      "Working with units": {
+        "Rate conversion": "Rate conversion",
+        "Appropriate units": "Formulas and units",
+        "Word problems with multiple units": "Using units to solve problems"
+      },
+      "Linear equations & graphs": {
+        "Two-variable linear equations intro": "Complete solutions to 2-variable equations",
+        "Slope": "Slope from two points",
+        "Horizontal & vertical lines": "Slope of horizontal & vertical lines",
+        "x-intercepts and y-intercepts": "Intercepts from an equation",
+        "Applying intercepts and slope": "Graphing linear relationships",
+        "Modeling with linear equations and inequalities": "Comparing linear rates"
+      },
+      "Forms of linear equations": {
+        "Intro to slope-intercept form": "Linear equations",
+        "Graphing slope-intercept equations": "Graph from slope-intercept form",
+        "Writing slope-intercept equations": "Slope-intercept from two points",
+        "Point-slope form": "Complete the point-slope equation of the line through two points",
+        "Standard form": "Convert linear equations to standard form",
+        "Summary: Forms of two-variable linear equations": "Slope from equation"
+      },
+      "Systems of equations": {
+        "Introduction to systems of equations": "Interpret points relative to a system",
+        "Solving systems of equations with substitutions": "Systems of equations with substitution",
+        "Solving systems of equations with elimination": "Systems of equations with elimination",
+        "Equivalent systems of equations": "Reasoning with systems of equations",
+        "Number of solutions to systems of equations": "Number of solutions to a system of equations algebraically",
+        "Systems of equations word problems": "Systems of equations word problems (with zero and infinite solutions)"
+      },
+      "inequalities (systems & graphs)": {
+        "Checking solutions of two-variable inequalities": "Solutions of systems of inequalities",
+        "Graphing two-variable inequalities": "Systems of inequalities graphs",
+        "Modeling with linear inequalities": "Two-variable inequalities"
+      },
+      "Functions": {
+        "Evaluating functions": "Evaluate function expressions",
+        "Inputs and outputs of a function": "Function inputs & outputs: equation",
+        "Functions and equations": "Function rules from equations",
+        "Interpreting function notation": "Function notation",
+        "Introduction to the domain and range of a function": "Domain and range from graph",
+        "Determining the domain of a function": "Function domain",
+        "Recognizing functions": "Recognize functions from graphs",
+        "Maximum and minimum points": "Absolute & Relative maxima and minima",
+        "Intervals where a function is positive, negative, increasing, or decreasing": "Increasing and decreasing intervals, Positive and negative intervals",
+        "Interpreting features of graphs": "Graph interpretation",
+        "Average rate of change": "Average rate of change: graphs & tables",
+        "Intro to inverse functions": "Average rate of change"
+      },
+      "Sequences": {
+        "Introduction to arithmetic sequences": "Use arithmetic sequence formulas",
+        "Constructing arithmetic sequences": "Converting recursive & explicit forms of arithmetic sequences",
+        "Introduction to geometric sequences": "Use geometric sequence formulas",
+        "Constructing geometric sequences": "Converting recursive & explicit forms of geometric sequences",
+        "Modeling with sequences": "Sequences",
+        "General sequences": "Evaluate sequences in recursive form"
+      },
+      "Absolute values & piecewise functions": {
+        "Graphs of absolute value functions": "Graph absolute value functions",
+        "Piecewise functions": "Piecewise functions graphs"
+      },
+      "Exponents & radicals": {
+        "Exponent properties review": "Powers of products & quotients (integer exponents)",
+        "Radicals": "Square roots",
+        "Simplifying square roots": "Simplify square-root expressions"
+      },
+      "Exponential growth & decay": {
+        "Exponential vs. linear growth": "Exponential vs. linear models",
+        "Exponential expressions": "Interpret exponential expressions",
+        "Graphs of exponential growth": "Graphs of exponential growth",
+        "Exponential vs. linear growth over time": "Exponential vs. linear growth over time",
+        "Exponential growth & decay": "Writing functions with exponential decay",
+        "Exponential functions from tables & graphs": "Connecting exponential graphs with contexts",
+        "Exponential vs. linear models": "Linear vs. exponential growth: from data"
+      },
+      "Quadratics: Multiplying & factoring": {
+        "Multiplying monomials by polynomials": "Multiply monomials by polynomials (basic): area model",
+        "Multiplying binomials": "Multiply binomials",
+        "Special products of binomials": "Multiply difference of squares",
+        "Introduction to factoring": "GCF factoring introduction",
+        "Factoring quadratics intro": "Factoring quadratics with a common factor",
+        "Factoring quadratics by grouping": "Factor quadratics by grouping",
+        "Factoring quadratics with difference of squares": "Difference of squares",
+        "Factoring quadratics with perfect squares": "Perfect squares"
+      },
+      "Quadratic function & equations": {
+        "Intro to parabolas": "Interpret parabolas in context",
+        "Solving and graphing with factored form": "Graph quadratics in factored form",
+        "Solving by taking the square root": "Quadratics by taking square roots: with steps",
+        "Vertex form": "Quadratic word problems (vertex form)",
+        "Solving quadratics by factoring": "Solve equations using structures",
+        "The quadratic formula": "Number of solutions of quadratic equations",
+        "Completing the square intro": "Completing the square (intermediate)",
+        "More on completing the square": "Completing the square",
+        "Strategizing to solve quadratic equations": "Strategy in solving quadratics",
+        "Quadratic standard form": "Graph quadratics in standard form",
+        "Features & forms of quadratic functions": "Interpret quadratic models",
+        "Comparing quadratic functions": "Compare quadratic functions",
+        "Transforming quadratic functions": "Scale & reflect parabolas"
+      },
+      "irrational numbers": {
+        "Irrational numbers": "Classify numbers: rational & irrational",
+        "Sums and products of rational and irrational numbers": "Rational vs. irrational expressions"
+      },
+      "Creativity in algebra": {
+        "Creativity in algebra": "The future of creativity in algebra"
+      }
+    }
+  },
+  "Geometry": {
+    "Without Image": {
+      "Performing transformations": {
+        "Intro to Euclidean geometry": "Define points, lines, planes, and angles",
+        "Introduction to rigid transformations": "Identify and classify dilations, translations, rotations",
+        "Translations": "Use vector notation to translate shapes on a plane",
+        "Rotations": "Rotate shapes around a fixed point by a given angle",
+        "Reflections": "Reflect shapes across lines using coordinate rules",
+        "Dilations": "Dilate triangles by a scale factor about a fixed center"
+      },
+      "Transformation properties and proofs": {
+        "Rigid transformations overview": "Properties preserved under rotations, reflections, and translations",
+        "Dilation preserved properties": "Examine the change in angles and side ratios after dilation",
+        "Properties & definitions of transformations": "Describe sequences of transformations",
+        "Symmetry": "Identify lines of symmetry and center of rotation",
+        "Proofs with transformations": "Use transformations to prove geometric properties"
+      },
+      "Congruence": {
+        "Transformations & congruence": "Demonstrate how transformations can create congruent figures",
+        "Triangle congruence from transformations": "Use transformations to justify triangle congruence",
+        "Congruent triangles": "Prove triangles are congruent using SSS, SAS, ASA, and AAS",
+        "Theorems concerning triangle properties": "Explore the properties of perpendicular bisectors and angle bisectors",
+        "Working with triangles": "Calculate angles in isosceles and equilateral triangles",
+        "Theorems concerning quadrilateral properties": "Prove properties of parallelograms, rectangles, and squares",
+        "Proofs of general theorems": "Demonstrate properties of lines and angles using formal proofs",
+        "Constructing lines & angles": "Construct bisectors, perpendicular lines, and angle copies using a compass and straightedge"
+      },
+      "Similarity": {
+        "Definitions of similarity": "Define and identify similar figures",
+        "Introduction to triangle similarity": "Prove triangles are similar using AA, SSS, and SAS",
+        "Solving similar triangles": "Use proportions to find missing sides in similar triangles",
+        "Angle bisector theorem": "Use the angle bisector theorem to solve for unknowns",
+        "Solving problems with similar & congruent triangles": "Apply properties of similarity and congruence in complex figures",
+        "Proving relationships using similarity": "Establish similarity in polygons and apply it to proofs",
+        "Solving modeling problems with similar & congruent triangles": "Model real-world problems using principles of similarity and congruence"
+      },
+      "Right triangles & trigonometry": {
+        "Pythagorean theorem": "Apply the Pythagorean theorem in problem solving",
+        "Pythagorean theorem proofs": "Derive and prove the Pythagorean theorem",
+        "Special right triangles": "Explore 30-60-90 and 45-45-90 triangles and their properties",
+        "Ratios in right triangles": "Understand and apply the concepts of opposite, adjacent, and hypotenuse",
+        "Introduction to the trigonometric ratios": "Define sine, cosine, and tangent",
+        "Solving for a side in a right triangle using the trigonometric ratios": "Use trigonometric ratios to find missing sides of a right triangle",
+        "Solving for an angle in a right triangle using the trigonometric ratios": "Calculate angles using the inverse trigonometric functions",
+        "Sine & cosine of complementary angles": "Explore the relationships between the sine and cosine of complementary angles",
+        "Modeling with right triangles": "Solve real-world problems involving right triangles"
+      },
+      "Analytic geometry": {
+        "Distance and midpoints": "Calculate the distance and midpoint between two points on the coordinate plane",
+        "Dividing line segments": "Determine a point that divides a segment into a specific ratio",
+        "Problem solving with distance on the coordinate plane": "Solve problems involving distance and midpoint formulas",
+        "Parallel & perpendicular lines on the coordinate plane": "Write equations for lines parallel or perpendicular to a given line",
+        "Equations of parallel & perpendicular lines": "Derive and use the formulas for lines"
+      },
+      "Conic sections": {
+        "Graphs of circles intro": "Identify and graph circles on the coordinate plane",
+        "Standard equation of a circle": "Write and solve the standard equation of a circle",
+        "Expanded equation of a circle": "Convert and use the expanded form of a circle's equation",
+        "Focus and directrix of a parabola": "Derive and graph the equations for parabolas based on the focus and directrix"
+      },
+      "Circles": {
+        "Circle basics": "Define parts of a circle and solve related problems",
+        "Arc measure": "Calculate the degree measure of arcs in circles",
+        "Arc length (from degrees)": "Compute the arc length from the radius and central angle in degrees",
+        "Introduction to radians": "Understand and convert between radians and degrees",
+        "Arc length (from radians)": "Determine the arc length using the radius and central angle in radians",
+        "Sectors": "Find the area of circle sectors",
+        "Inscribed angles": "Use the properties of inscribed angles to solve problems",
+        "Inscribed shapes problem solving": "Solve problems involving inscribed polygons and circles",
+        "Proofs with inscribed shapes": "Develop proofs involving circle theorems",
+        "Properties of tangents": "Investigate and prove properties of tangents to circles",
+        "Constructing regular polygons inscribed in circles": "Construct and analyze regular polygons within circles",
+        "Constructing circumcircles & incircles": "Construct and apply properties of circumcircles and incircles",
+        "Constructing a line tangent to a circle": "Use geometric tools to construct tangents from a point outside a circle"
+      },
+      "Solid geometry": {
+        "2D vs. 3D objects": "Compare and contrast two-dimensional and three-dimensional objects",
+        "Cavalieri's principle and dissection methods": "Apply Cavalieri's Principle to solve problems involving volume",
+        "Volume and surface area": "Calculate the volume and surface area of various solid figures",
+        "Density": "Understand and calculate the density of 3D objects"
+      }
+    },
+    "With Image": {
+      "Performing transformations": {
+        "Intro to Euclidean geometry": "Identify and sketch basic geometric figures",
+        "Introduction to rigid transformations": "Visualize and sketch dilations, translations, rotations",
+        "Translations": "Graphically represent translations on a coordinate plane",
+        "Rotations": "Illustrate rotations with specific angles using graph paper",
+        "Reflections": "Demonstrate reflections across various lines graphically",
+        "Dilations": "Visually represent the dilation of shapes and calculate scale factors"
+      },
+      "Transformation properties and proofs": {
+        "Rigid transformations overview": "Analyze and illustrate properties preserved under rigid transformations",
+        "Dilation preserved properties": "Visualize and verify properties that are preserved or altered by dilations",
+        "Properties & definitions of transformations": "Graph multiple transformations to observe effects",
+        "Symmetry": "Use graphics to identify and explain symmetry in shapes",
+        "Proofs with transformations": "Create visual proofs to demonstrate geometric theorems using transformations"
+      },
+      "Congruence": {
+        "Transformations & congruence": "Graphically show how transformations can lead to congruent shapes",
+        "Triangle congruence from transformations": "Use images to support proofs of triangle congruence",
+        "Congruent triangles": "Illustrate and prove congruence using geometric figures",
+        "Theorems concerning triangle properties": "Visually demonstrate properties such as the angles in a triangle summing to 180°",
+        "Working with triangles": "Graphically find angles in isosceles triangles and show congruence",
+        "Theorems concerning quadrilateral properties": "Create diagrams to prove properties of special quadrilaterals",
+        "Proofs of general theorems": "Use detailed drawings to support line and angle proofs",
+        "Constructing lines & angles": "Demonstrate geometric constructions using visuals"
+      },
+      "Similarity": {
+        "Definitions of similarity": "Illustrate and define similar shapes using diagrams",
+        "Introduction to triangle similarity": "Graphically demonstrate how triangles are similar",
+        "Solving similar triangles": "Use diagrams to show how to solve for missing sides in similar triangles",
+        "Angle bisector theorem": "Illustrate the use of the angle bisector theorem with visual aids",
+        "Solving problems with similar & congruent triangles": "Use detailed diagrams to solve complex geometric problems",
+        "Proving relationships using similarity": "Create visual proofs for relationships in similar figures",
+        "Solving modeling problems with similar & congruent triangles": "Use visuals to model and solve real-world problems"
+      },
+      "Right triangles & trigonometry": {
+        "Pythagorean theorem": "Demonstrate the theorem visually through geometric drawings",
+        "Pythagorean theorem proofs": "Use visual aids to show multiple proofs of the Pythagorean theorem",
+        "Special right triangles": "Create diagrams to explore and explain the properties of special right triangles",
+        "Ratios in right triangles": "Illustrate and calculate trigonometric ratios using right triangle diagrams",
+        "Introduction to the trigonometric ratios": "Visually define and apply sine, cosine, and tangent",
+        "Solving for a side in a right triangle using the trigonometric ratios": "Use visual diagrams to find missing sides",
+        "Solving for an angle in a right triangle using the trigonometric ratios": "Graphically calculate angles using trig ratios",
+        "Sine & cosine of complementary angles": "Use visual comparisons to understand these trigonometric relationships",
+        "Modeling with right triangles": "Apply right triangle principles to solve visual and practical problems"
+      },
+      "Analytic geometry": {
+        "Distance and midpoints": "Graph points and calculate distances and midpoints visually",
+        "Dividing line segments": "Use diagrams to illustrate division of segments into specific ratios",
+        "Problem solving with distance on the coordinate plane": "Visually solve distance-related problems using coordinate geometry",
+        "Parallel & perpendicular lines on the coordinate plane": "Draw and analyze parallel and perpendicular lines",
+        "Equations of parallel & perpendicular lines": "Graphically derive and use equations for specific lines"
+      },
+      "Conic sections": {
+        "Graphs of circles intro": "Visualize and sketch circles with various radii and centers",
+        "Standard equation of a circle": "Use visuals to derive and understand the standard equation",
+        "Expanded equation of a circle": "Graphically manipulate and utilize the expanded circle equation",
+        "Focus and directrix of a parabola": "Create detailed diagrams to explore parabolas' properties"
+      },
+      "Circles": {
+        "Circle basics": "Illustrate basic circle terminology and properties",
+        "Arc measure": "Graphically determine and calculate the measures of arcs",
+        "Arc length (from degrees)": "Use visuals to calculate arc length from central angle measurements",
+        "Introduction to radians": "Graphically represent and convert between radians and degrees",
+        "Arc length (from radians)": "Visually calculate the length of arcs given in radians",
+        "Sectors": "Graphically determine the area of circle sectors",
+        "Inscribed angles": "Use diagrams to explore and prove properties of inscribed angles",
+        "Inscribed shapes problem solving": "Solve geometric problems involving circles and inscribed shapes visually",
+        "Proofs with inscribed shapes": "Use visual aids to prove theorems involving circles",
+        "Properties of tangents": "Illustrate and prove properties of tangents using diagrams",
+        "Constructing regular polygons inscribed in circles": "Visually construct and analyze polygons within circles",
+        "Constructing circumcircles & incircles": "Graphically construct and explore the properties of circumcircles and incircles",
+        "Constructing a line tangent to a circle": "Use visuals to demonstrate how to construct tangents"
+      },
+      "Solid geometry": {
+        "2D vs. 3D objects": "Compare 2D representations to 3D models visually",
+        "Cavalieri's principle and dissection methods": "Visualize and apply Cavalieri's principle to understand volume",
+        "Volume and surface area": "Use 3D models to calculate the volume and surface area of solids",
+        "Density": "Graphically explore the concept of density and its calculation"
+      }
+    }
+  },
+  "Algebra 2": {
+    "Without Image": {
+      "Polynomial arithmetic": {
+        "Intro to polynomials": "Identify the degree and leading coefficient of polynomials",
+        "Average rate of change of polynomials": "Calculate the average rate of change between two points",
+        "Adding and subtracting polynomials": "Practice addition and subtraction of polynomial expressions",
+        "Multiplying monomials by polynomials": "Multiply monomials with polynomials to simplify expressions",
+        "Multiplying binomials by polynomials": "Use the distributive property to multiply binomials and polynomials",
+        "Special products of polynomials": "Explore squared and cubed binomials and their patterns"
+      },
+      "Complex numbers": {
+        "The imaginary unit i": "Understand and calculate powers of the imaginary unit i",
+        "Complex numbers introduction": "Define and perform basic operations with complex numbers",
+        "The complex plane": "Plot complex numbers on the complex plane",
+        "Adding and subtracting complex numbers": "Perform addition and subtraction of complex numbers",
+        "Multiplying complex numbers": "Multiply complex numbers using the distributive property",
+        "Quadratic equations with complex solutions": "Solve quadratic equations that have complex solutions"
+      },
+      "Polynomial factorization": {
+        "Factoring monomials": "Factor out the greatest common monomial from polynomial expressions",
+        "Greatest common factor": "Identify and factor out the greatest common factor in polynomials",
+        "Taking common factors": "Simplify expressions by factoring",
+        "Factoring higher degree polynomials": "Factor polynomials of degree higher than 2",
+        "Factoring using structure": "Recognize and factor polynomials using special patterns",
+        "Polynomial identities": "Use polynomial identities to simplify expressions",
+        "Geometric series": "Find the sum of geometric series using polynomial concepts"
+      },
+      "Polynomial division": {
+        "Dividing polynomials by x": "Divide polynomials by x and determine the quotient and remainder",
+        "Dividing quadratics by linear factors": "Apply synthetic division to divide quadratics by linear factors",
+        "Dividing polynomials by linear factors": "Use long division to divide polynomials by linear factors",
+        "Polynomial Remainder Theorem": "Apply the Remainder Theorem to evaluate polynomials"
+      },
+      "Polynomial graphs": {
+        "Zeros of polynomials": "Determine the zeros of polynomial functions and their multiplicities",
+        "Positive and negative intervals of polynomials": "Identify intervals where polynomial functions are positive or negative",
+        "End behavior of polynomials": "Analyze the end behavior of polynomial functions based on their degree",
+        "Putting it all together": "Combine knowledge of zeros, signs, and end behavior to sketch polynomial graphs"
+      },
+      "Rational exponents and radicals": {
+        "Rational exponents": "Simplify expressions involving rational exponents",
+        "Properties of exponents (rational exponents)": "Apply properties of exponents to simplify expressions",
+        "Evaluating exponents & radicals": "Evaluate numerical expressions involving exponents and radicals",
+        "Equivalent forms of exponential expressions": "Convert between radical expressions and expressions with rational exponents",
+        "Solving exponential equations using properties of exponents": "Solve exponential equations by applying exponent rules"
+      },
+      "Exponential models": {
+        "Interpreting the rate of change of exponential models": "Analyze the rate of change in exponential functions",
+        "Constructing exponential models according to rate of change": "Build exponential models from data and determine the rate parameters",
+        "Advanced interpretation of exponential models": "Interpret contexts that produce exponential growth or decay"
+      },
+      "Logarithms": {
+        "Introduction to logarithms": "Understand logarithms as inverses of exponential functions",
+        "The constant e and the natural logarithm": "Explore the natural logarithm ln and the constant e",
+        "Properties of logarithms": "Use properties of logarithms to simplify logarithmic expressions",
+        "The change of base formula for logarithms": "Apply the change of base formula to evaluate logarithms",
+        "Solving exponential equations with logarithms": "Use logarithms to solve exponential equations",
+        "Solving exponential models": "Apply logarithms to solve real-world exponential models"
+      },
+      "Transformations of functions": {
+        "Shifting functions": "Shift graphs of functions horizontally and vertically",
+        "Reflecting functions": "Reflect graphs across the axes",
+        "Symmetry of functions: Transformations of functions": "Analyze symmetry in functions after transformations",
+        "Scaling functions": "Scale graphs of functions to compress or stretch vertically and horizontally",
+        "Putting it all together": "Combine various transformations to modify function graphs",
+        "Graphs of square and cube root functions": "Sketch and interpret graphs of square and cube root functions",
+        "Graphs of exponential functions": "Graph and analyze exponential functions for growth and decay",
+        "Graphs of logarithmic functions": "Graph and interpret logarithmic functions"
+      },
+      "Equations": {
+        "Rational equations": "Solve equations involving rational expressions",
+        "Square-root equations": "Solve equations involving square roots and identify possible extraneous solutions",
+        "Extraneous solutions": "Understand and find extraneous solutions in radical equations",
+        "Cube-root equations": "Solve equations involving cube roots",
+        "Quadratic systems": "Solve systems of equations involving quadratics",
+        "Solving equations by graphing": "Graph equations to find solutions visually"
+      },
+      "Trigonometry": {
+        "Unit circle introduction": "Understand the unit circle and its relationship to trigonometric functions",
+        "Radians": "Convert between degrees and radians and interpret angles in both measures",
+        "The Pythagorean identity": "Use the Pythagorean identity to solve for trigonometric values",
+        "Trigonometric values of special angles": "Calculate trigonometric values for key angles in the unit circle",
+        "Graphs of sin(x), cos(x), and tan(x)": "Graph the basic trigonometric functions and explore their properties",
+        "Amplitude, midline and period": "Analyze the amplitude, midline, and period of sinusoidal functions",
+        "Transforming sinusoidal graphs": "Apply transformations to sinusoidal graphs for phase shifts and vertical shifts",
+        "Graphing sinusoidal functions": "Graph sinusoidal functions based on amplitude, phase shifts, and other properties",
+        "Sinusoidal models": "Model real-world phenomena using sinusoidal functions"
+      },
+      "Modeling": {
+        "Modeling with function combination": "Combine different types of functions to model complex situations",
+        "Interpreting features of functions": "Analyze key features of graphs such as intercepts, maxima, and minima",
+        "Manipulating formulas": "Rearrange and manipulate formulas to highlight different aspects of a relationship",
+        "Modeling with two variables": "Develop models that involve two variables to represent real-world relationships",
+        "Modeling with multiple variables": "Extend modeling techniques to incorporate multiple variables"
+      }
+    },
+    "With Image": {
+      "Polynomial arithmetic": {
+        "Intro to polynomials": "Visually represent terms and their degrees in polynomial expressions",
+        "Average rate of change of polynomials": "Graph polynomial functions and visually determine average rates of change",
+        "Adding and subtracting polynomials": "Use graphical models to add and subtract polynomial expressions",
+        "Multiplying monomials by polynomials": "Illustrate the distributive property graphically when multiplying monomials by polynomials",
+        "Multiplying binomials by polynomials": "Display the FOIL method and area models graphically for multiplication",
+        "Special products of polynomials": "Visualize special products such as difference of squares through geometric models"
+      },
+      "Complex numbers": {
+        "The imaginary unit i": "Graphically represent operations involving the imaginary unit",
+        "Complex numbers introduction": "Illustrate complex numbers and their components on the complex plane",
+        "The complex plane": "Use detailed diagrams to show complex number operations on the complex plane",
+        "Adding and subtracting complex numbers": "Visually demonstrate addition and subtraction of complex numbers",
+        "Multiplying complex numbers": "Use graphical methods to multiply complex numbers and explore properties of i",
+        "Quadratic equations with complex solutions": "Graphically represent solutions to quadratics with complex roots"
+      },
+      "Polynomial factorization": {
+        "Factoring monomials": "Graphically show the process of factoring out the greatest common monomial factor",
+        "Greatest common factor": "Use visual aids to identify the greatest common factor in polynomial expressions",
+        "Taking common factors": "Illustrate the process of factoring by removing the greatest common factor",
+        "Factoring higher degree polynomials": "Demonstrate factorization techniques for higher degree polynomials using visuals",
+        "Factoring using structure": "Visualize the recognition and factorization of special product structures",
+        "Polynomial identities": "Show polynomial identities through graphical representations",
+        "Geometric series": "Use visuals to explain the sum of geometric series"
+      },
+      "Polynomial division": {
+        "Dividing polynomials by x": "Graphically show how to divide polynomials by x using long division",
+        "Dividing quadratics by linear factors": "Use diagrams to demonstrate synthetic division",
+        "Dividing polynomials by linear factors": "Visualize polynomial division by linear factors using both synthetic and long division",
+        "Polynomial Remainder Theorem": "Graphically illustrate the application of the Polynomial Remainder Theorem"
+      },
+      "Polynomial graphs": {
+        "Zeros of polynomials": "Plot polynomial functions and indicate zeros visually",
+        "Positive and negative intervals of polynomials": "Use graphs to identify intervals where polynomial functions are positive or negative",
+        "End behavior of polynomials": "Demonstrate the end behavior of polynomial functions graphically",
+        "Putting it all together": "Create comprehensive sketches combining zeros, sign intervals, and end behavior"
+      },
+      "Rational exponents and radicals": {
+        "Rational exponents": "Visualize expressions with rational exponents and their simplifications",
+        "Properties of exponents (rational exponents)": "Graphically demonstrate properties of exponents with rational indices",
+        "Evaluating exponents & radicals": "Use visual aids to help in the evaluation of expressions with exponents and radicals",
+        "Equivalent forms of exponential expressions": "Show equivalent forms of expressions using both radicals and rational exponents",
+        "Solving exponential equations using properties of exponents": "Graph solutions to exponential equations involving rational exponents"
+      },
+      "Exponential models": {
+        "Interpreting the rate of change of exponential models": "Graph exponential functions and discuss their rate of change",
+        "Constructing exponential models according to rate of change": "Visualize construction of exponential models from data points",
+        "Advanced interpretation of exponential models": "Use graphs to interpret and predict behavior in advanced exponential models"
+      },
+      "Logarithms": {
+        "Introduction to logarithms": "Graphically explain the concept of logarithms as inverses of exponential functions",
+        "The constant e and the natural logarithm": "Illustrate the function e^x and its inverse, ln(x), using graphs",
+        "Properties of logarithms": "Use diagrams to show how properties of logarithms are used to simplify expressions",
+        "The change of base formula for logarithms": "Graphically represent the change of base formula for logarithms",
+        "Solving exponential equations with logarithms": "Demonstrate solving exponential equations with logarithms using graphical methods",
+        "Solving exponential models": "Graphically solve problems involving exponential decay and growth models"
+      },
+      "Transformations of functions": {
+        "Shifting functions": "Show how horizontal and vertical shifts affect the graphs of various functions",
+        "Reflecting functions": "Illustrate reflections of functions across the x-axis and y-axis",
+        "Symmetry of functions: Transformations of functions": "Use visuals to demonstrate symmetry in function transformations",
+        "Scaling functions": "Graph how changes in function coefficients stretch or compress the graph",
+        "Putting it all together": "Combine multiple transformations in function graphs to illustrate complex changes",
+        "Graphs of square and cube root functions": "Plot and analyze the characteristics of square and cube root functions",
+        "Graphs of exponential functions": "Display the characteristics of exponential function graphs",
+        "Graphs of logarithmic functions": "Illustrate the properties and behavior of logarithmic function graphs"
+      },
+      "Equations": {
+        "Rational equations": "Graph solutions to equations involving rational expressions",
+        "Square-root equations": "Use graphs to solve square-root equations and identify extraneous solutions",
+        "Extraneous solutions": "Graphically explore the concept of extraneous solutions in equations",
+        "Cube-root equations": "Visualize solutions to cube-root equations through graphs",
+        "Quadratic systems": "Plot and solve systems involving quadratic equations",
+        "Solving equations by graphing": "Demonstrate solving various equations by graphing their solutions"
+      },
+      "Trigonometry": {
+        "Unit circle introduction": "Graph the unit circle and indicate key angles and their trigonometric values",
+        "Radians": "Visualize the conversion of angle measures from degrees to radians on the unit circle",
+        "The Pythagorean identity": "Use visual aids to explain the Pythagorean identity",
+        "Trigonometric values of special angles": "Illustrate the trigonometric values for special angles using the unit circle",
+        "Graphs of sin(x), cos(x), and tan(x)": "Plot the basic trigonometric functions and discuss their properties",
+        "Amplitude, midline and period": "Graphically adjust and interpret changes in amplitude, midline, and period of sinusoidal functions",
+        "Transforming sinusoidal graphs": "Show transformations on sinusoidal graphs to illustrate phase shifts and other changes",
+        "Graphing sinusoidal functions": "Create detailed graphs of sinusoidal functions with applications to real-world phenomena",
+        "Sinusoidal models": "Graph and analyze sinusoidal models for natural phenomena and periodic processes"
+      },
+      "Modeling": {
+        "Modeling with function combination": "Use visuals to show how different functions can be combined to model real-world situations",
+        "Interpreting features of functions": "Graphically interpret key features of functions such as intercepts, maxima, and minima",
+        "Manipulating formulas": "Demonstrate how altering formulas affects the graph and interpretation of data",
+        "Modeling with two variables": "Graph and analyze models that incorporate two variables to explain relationships",
+        "Modeling with multiple variables": "Use complex diagrams to represent models involving multiple variables in various contexts"
+      }
+    }
+  },
+  "Trigonometry": {
+    "Without Image": {
+      "Right triangles & trigonometry": {
+        "Ratios in right triangles": "Identify and use ratios in right triangles to solve problems",
+        "Introduction to the trigonometric ratios": "Define sine, cosine, and tangent in terms of a right triangle",
+        "Solving for a side in a right triangle using the trigonometric ratios": "Use trigonometric ratios to find unknown side lengths in right triangles",
+        "Solving for an angle in a right triangle using the trigonometric ratios": "Calculate unknown angles in right triangles using inverse trigonometric functions",
+        "Sine and cosine of complementary angles": "Explore the relationship between sine and cosine of complementary angles",
+        "Modeling with right triangles": "Apply trigonometry to solve real-world problems involving right triangles",
+        "The reciprocal trigonometric ratios": "Understand and use the reciprocal ratios: cosecant, secant, and cotangent"
+      },
+      "Trigonometric functions": {
+        "Unit circle introduction": "Introduce the concept of the unit circle and its importance in trigonometry",
+        "Radians": "Define radian measure and convert between radians and degrees",
+        "The Pythagorean identity": "Prove and apply the Pythagorean identity",
+        "Special trigonometric values in the first quadrant": "Calculate trigonometric ratios for special angles in the first quadrant",
+        "Trigonometric values on the unit circle": "Identify trigonometric values at various points on the unit circle",
+        "Graphs of sin(x), cos(x), and tan(x)": "Plot and analyze the graphs of the sine, cosine, and tangent functions",
+        "Amplitude, midline, and period": "Determine the amplitude, midline, and period of sinusoidal functions",
+        "Transforming sinusoidal graphs": "Explore how changes to function parameters affect the graphs of sinusoidal functions",
+        "Graphing sinusoidal functions": "Graph sinusoidal functions using amplitude, period, phase shifts, and vertical shifts",
+        "Sinusoidal models": "Create and interpret models using sinusoidal functions to describe periodic phenomena",
+        "Long live Tau": "Discuss the use of Tau (τ = 2π) in trigonometry as an alternative to Pi"
+      },
+      "Non-right triangles & trigonometry": {
+        "Law of sines": "Apply the Law of Sines to solve problems involving non-right triangles",
+        "Law of cosines": "Use the Law of Cosines to calculate unknown sides or angles in any triangle",
+        "Solving general triangles": "Solve triangles using a combination of the Law of Sines and the Law of Cosines"
+      },
+      "Trigonometric equations and identities": {
+        "Inverse trigonometric functions": "Use inverse trigonometric functions to solve equations and find angles",
+        "Sinusoidal equations": "Solve equations that model sinusoidal functions",
+        "Sinusoidal models": "Apply sinusoidal functions to model and solve real-world problems",
+        "Angle addition identities": "Use angle addition identities to simplify and solve trigonometric expressions",
+        "Using trigonometric identities": "Apply various trigonometric identities to simplify trigonometric expressions and prove statements",
+        "Challenging trigonometry problems": "Solve complex trigonometric problems that require creative application of concepts and identities"
+      }
+    },
+    "With Image": {
+      "Right triangles & trigonometry": {
+        "Ratios in right triangles": "Visually explore and apply ratios in right triangles to solve problems",
+        "Introduction to the trigonometric ratios": "Illustrate sine, cosine, and tangent ratios in right triangles",
+        "Solving for a side in a right triangle using the trigonometric ratios": "Use visual aids to demonstrate how to find sides of right triangles using trig ratios",
+        "Solving for an angle in a right triangle using the trigonometric ratios": "Graphically demonstrate finding angles using inverse trigonometric functions",
+        "Sine and cosine of complementary angles": "Show the relationship between sine and cosine of complementary angles with visual diagrams",
+        "Modeling with right triangles": "Create visual models to solve real-world problems involving right triangles",
+        "The reciprocal trigonometric ratios": "Graphically introduce and explore cosecant, secant, and cotangent ratios"
+      },
+      "Trigonometric functions": {
+        "Unit circle introduction": "Use visual diagrams to explain the unit circle and its trigonometric implications",
+        "Radians": "Illustrate the concept of radian measure and its conversions with degrees on the unit circle",
+        "The Pythagorean identity": "Visually demonstrate the Pythagorean identity using the unit circle",
+        "Special trigonometric values in the first quadrant": "Graphically represent trigonometric values for special angles in the first quadrant",
+        "Trigonometric values on the unit circle": "Display trigonometric values at various points on the unit circle",
+        "Graphs of sin(x), cos(x), and tan(x)": "Plot and analyze the graphs of sine, cosine, and tangent functions with graphical annotations",
+        "Amplitude, midline, and period": "Visualize how amplitude, midline, and period affect the graphs of sinusoidal functions",
+        "Transforming sinusoidal graphs": "Use visual transformations to demonstrate changes in sinusoidal graphs",
+        "Graphing sinusoidal functions": "Create detailed graphs of sinusoidal functions, emphasizing practical applications",
+        "Sinusoidal models": "Develop and interpret visual models using sinusoidal functions for real-world applications",
+        "Long live Tau": "Promote understanding of Tau (τ = 2π) with visuals contrasting it with Pi"
+      },
+      "Non-right triangles & trigonometry": {
+        "Law of sines": "Graphically explain and apply the Law of Sines to solve non-right triangle problems",
+        "Law of cosines": "Use visual methods to explain and apply the Law of Cosines",
+        "Solving general triangles": "Demonstrate solving for sides and angles in any triangle using visual aids"
+      },
+      "Trigonometric equations and identities": {
+        "Inverse trigonometric functions": "Visually interpret inverse trigonometric functions to solve trigonometric equations",
+        "Sinusoidal equations": "Use graphs to solve and understand equations involving sinusoidal functions",
+        "Sinusoidal models": "Graphically demonstrate the application of sinusoidal models in various contexts",
+        "Angle addition identities": "Visually show how to use angle addition identities in solving trigonometric problems",
+        "Using trigonometric identities": "Demonstrate various trigonometric identities through visual proofs and applications",
+        "Challenging trigonometry problems": "Graphically tackle complex trigonometric problems that integrate multiple concepts"
+      }
+    }
+  },
+  "Precalculus": {
+    "Without Image": {
+      "Composite and inverse functions": {
+        "Composing functions": "Determine the result of function compositions",
+        "Modeling with composite functions": "Use composite functions to model real-world scenarios",
+        "Invertible functions": "Determine if functions are invertible based on their properties",
+        "Inverse functions in graphs and tables": "Identify and graph inverse functions, and interpret their meaning from tables",
+        "Verifying inverse functions by composition": "Verify that two functions are inverses by composition"
+      },
+      "Trigonometry": {
+        "Special trigonometric values in the first quadrant": "Calculate trigonometric ratios for special angles",
+        "Trigonometric identities on the unit circle": "Prove and apply trigonometric identities using the unit circle",
+        "Inverse trigonometric functions": "Solve equations and find angle measures using inverse trigonometric functions",
+        "Law of sines": "Apply the Law of Sines to find missing sides and angles in non-right triangles",
+        "Law of cosines": "Use the Law of Cosines to solve triangles and find unknown measures",
+        "Solving general triangles": "Solve triangles using a combination of trigonometric laws and theories",
+        "Sinusoidal equations": "Solve equations that involve sinusoidal functions",
+        "Sinusoidal models": "Model periodic phenomena using sinusoidal functions",
+        "Angle addition identities": "Use angle addition identities to simplify trigonometric expressions",
+        "Using trigonometric identities": "Apply various trigonometric identities to solve problems and simplify expressions"
+      },
+      "Complex numbers": {
+        "The complex plane": "Plot and interpret points on the complex plane",
+        "Distance and midpoint of complex numbers": "Calculate the distance and midpoint between two complex numbers",
+        "Complex conjugates and dividing complex numbers": "Use complex conjugates to divide complex numbers",
+        "Identities with complex numbers": "Explore and prove identities involving complex numbers",
+        "Modulus (absolute value) and argument (angle) of complex numbers": "Determine the modulus and argument of complex numbers and their applications",
+        "Polar form of complex numbers": "Convert complex numbers to and from polar form",
+        "Graphically multiplying complex numbers": "Visualize the effects of multiplying complex numbers on the complex plane",
+        "Multiplying and dividing complex numbers in polar form": "Perform multiplication and division of complex numbers in polar form",
+        "The fundamental theorem of algebra": "Discuss the implications and applications of the fundamental theorem of algebra"
+      },
+      "Rational functions": {
+        "Reducing rational expressions to lowest terms": "Simplify rational expressions to their simplest form",
+        "End behavior of rational functions": "Analyze and describe the end behavior of rational functions",
+        "Discontinuities of rational functions": "Identify and classify discontinuities in rational functions",
+        "Graphs of rational functions": "Sketch the graphs of various rational functions identifying key features",
+        "Modeling with rational functions": "Use rational functions to model and solve real-world problems",
+        "Multiplying and dividing rational expressions": "Perform operations of multiplication and division on rational expressions",
+        "Adding and subtracting rational expressions": "Add and subtract rational expressions with different denominators"
+      },
+      "Conic sections": {
+        "Introduction to conic sections": "Define conic sections and derive their standard equations",
+        "Center and radii of an ellipse": "Determine the center and radii of ellipses from their equations",
+        "Foci of an ellipse": "Calculate the foci of an ellipse based on its dimensions",
+        "Introduction to hyperbolas": "Discuss the properties and equations of hyperbolas",
+        "Foci of a hyperbola": "Find the foci of a hyperbola and use them to solve problems",
+        "Hyperbolas not centered at the origin": "Analyze and graph hyperbolas that are not centered at the origin"
+      },
+      "Vectors": {
+        "Vectors introduction": "Introduce vectors and their operations",
+        "Vector components": "Break down vectors into their components",
+        "Magnitude of vectors": "Calculate the magnitude of vectors",
+        "Scalar multiplication": "Perform scalar multiplication and explore its effects on vectors",
+        "Vector addition and subtraction": "Add and subtract vectors graphically and algebraically",
+        "Direction of vectors": "Determine the direction angles of vectors",
+        "Vector components from magnitude and direction": "Construct vectors given their magnitude and direction",
+        "Adding vectors in magnitude and direction form": "Add vectors using polar coordinates",
+        "Vectors word problems": "Solve real-world problems using vector concepts"
+      },
+      "Matrices": {
+        "Introduction to matrices": "Introduce the concept and types of matrices",
+        "Using matrices to represent data": "Utilize matrices to organize and manipulate data",
+        "Multiplying matrices by scalars": "Explore the effects of scalar multiplication on matrices",
+        "Adding and subtracting matrices": "Perform addition and subtraction of matrices",
+        "Properties of matrix addition & scalar multiplication": "Discuss the properties of matrix operations",
+        "Using matrices to manipulate data": "Apply matrix operations to solve data manipulation tasks",
+        "Matrices as transformations of the plane": "Explore how matrices transform geometric figures on the plane",
+        "Using matrices to transform the plane": "Apply transformations to objects in the coordinate plane using matrices",
+        "Transforming 3D and 4D vectors with matrices": "Discuss the use of matrices in transforming higher-dimensional vectors",
+        "Multiplying matrices by matrices": "Perform and explore the properties of matrix multiplication",
+        "Properties of matrix multiplication": "Investigate the algebraic properties associated with matrix multiplication",
+        "Representing systems of equations with matrices": "Use matrices to represent and solve systems of linear equations",
+        "Introduction to matrix inverses": "Introduce the concept of inverse matrices and their significance",
+        "Finding inverses of 2x2 matrices": "Calculate the inverses of 2x2 matrices using algebraic methods",
+        "Solving linear systems with matrices": "Solve systems of linear equations using matrix inverses"
+      },
+      "Probability and combinatorics": {
+        "Venn diagrams and the addition rule": "Use Venn diagrams to illustrate and apply the addition rule in probability",
+        "Multiplication rule for probabilities: Probability and combinatorics": "Apply the multiplication rule to solve probability problems involving independent events",
+        "Permutations": "Calculate permutations for various scenarios",
+        "Combinations": "Determine combinations and their applications to probability and counting problems",
+        "Probability using combinatorics": "Calculate probabilities using principles of combinatorics",
+        "Probability distributions introduction": "Introduce the concept of probability distributions and their applications",
+        "Theoretical & empirical probability distributions": "Differentiate between theoretical and empirical probability distributions and their uses",
+        "Decisions with probability": "Analyze decisions based on different probability outcomes",
+        "Expected value": "Calculate and interpret the expected value of random events"
+      },
+      "Series": {
+        "Geometric series": "Explore the sum of geometric series and their convergence properties",
+        "Geometric series (with summation notation)": "Express geometric series using summation notation and solve",
+        "The binomial theorem": "Apply the binomial theorem to expand polynomials",
+        "Arithmetic series": "Calculate the sum of arithmetic series and explore its applications"
+      },
+      "Limits and continuity": {
+        "Defining limits and using limit notation": "Introduce the concept of limits and proper notation",
+        "Estimating limit values from graphs": "Use graphs to estimate the limits of functions",
+        "Estimating limit values from tables": "Determine limits by analyzing function values in a table",
+        "Determining limits using algebraic properties of limits: limit properties": "Apply properties of limits to find limits algebraically",
+        "Determining limits using algebraic properties of limits: direct substitution": "Use direct substitution to determine limits",
+        "Determining limits using algebraic manipulation": "Manipulate expressions to find limits",
+        "Selecting procedures for determining limits": "Choose appropriate methods to calculate various types of limits",
+        "Determining limits using the squeeze theorem": "Apply the squeeze theorem to establish limit existence",
+        "Exploring types of discontinuities": "Identify and classify different types of discontinuities",
+        "Defining continuity at a point": "Define what it means for a function to be continuous at a point",
+        "Confirming continuity over an interval": "Verify the continuity of functions over specified intervals",
+        "Removing discontinuities": "Discuss methods for 'removing' removable discontinuities",
+        "Connecting infinite limits and vertical asymptotes": "Relate infinite limits to the presence of vertical asymptotes",
+        "Connecting limits at infinity and horizontal asymptotes": "Examine the relationship between limits at infinity and horizontal asymptotes",
+        "Working with the intermediate value theorem": "Use the intermediate value theorem to solve problems involving continuity"
+      }
+    },
+    "With Image": {
+      "Composite and inverse functions": {
+        "Composing functions": "Visually represent the composition of functions",
+        "Modeling with composite functions": "Create visual models using composite functions to represent complex scenarios",
+        "Invertible functions": "Graphically demonstrate properties of invertible functions",
+        "Inverse functions in graphs and tables": "Use graphs and tables to represent and analyze inverse functions",
+        "Verifying inverse functions by composition": "Visually confirm that functions are inverses through composition"
+      },
+      "Trigonometry": {
+        "Special trigonometric values in the first quadrant": "Graphically illustrate special trigonometric values in the first quadrant",
+        "Trigonometric identities on the unit circle": "Visualize trigonometric identities on the unit circle",
+        "Inverse trigonometric functions": "Graph inverse trigonometric functions and their applications",
+        "Law of sines": "Use visual aids to explain the application of the Law of Sines",
+        "Law of cosines": "Graphically demonstrate how the Law of Cosines is used to solve triangles",
+        "Solving general triangles": "Visually represent the process of solving general triangles",
+        "Sinusoidal equations": "Graph sinusoidal equations to find solutions",
+        "Sinusoidal models": "Create visual representations of sinusoidal models for real-world applications",
+        "Angle addition identities": "Use visual aids to explain angle addition identities",
+        "Using trigonometric identities": "Demonstrate trigonometric identities using visual methods"
+      },
+      "Complex numbers": {
+        "The complex plane": "Visualize and plot numbers on the complex plane",
+        "Distance and midpoint of complex numbers": "Graphically determine distance and midpoint for complex numbers",
+        "Complex conjugates and dividing complex numbers": "Use visual aids to explain the use of complex conjugates in division",
+        "Identities with complex numbers": "Graphically explore identities involving complex numbers",
+        "Modulus (absolute value) and argument (angle) of complex numbers": "Visualize the modulus and argument of complex numbers",
+        "Polar form of complex numbers": "Graphically represent complex numbers in polar form",
+        "Graphically multiplying complex numbers": "Demonstrate the multiplication of complex numbers on the complex plane",
+        "Multiplying and dividing complex numbers in polar form": "Use visuals to explain the process of multiplying and dividing in polar form",
+        "The fundamental theorem of algebra": "Illustrate the concepts behind the fundamental theorem of algebra"
+      },
+      "Rational functions": {
+        "Reducing rational expressions to lowest terms": "Graphically show the process of simplifying rational expressions",
+        "End behavior of rational functions": "Use graphs to examine and explain the end behavior of rational functions",
+        "Discontinuities of rational functions": "Visualize and classify different types of discontinuities in rational functions",
+        "Graphs of rational functions": "Graph rational functions highlighting their key characteristics",
+        "Modeling with rational functions": "Use graphs to model real-world situations using rational functions",
+        "Multiplying and dividing rational expressions": "Graphically demonstrate the multiplication and division of rational expressions",
+        "Adding and subtracting rational expressions": "Use visuals to explain the addition and subtraction of rational expressions with different denominators"
+      },
+      "Conic sections": {
+        "Introduction to conic sections": "Visualize the different types of conic sections and their properties",
+        "Center and radii of an ellipse": "Graph ellipses and identify their centers and radii",
+        "Foci of an ellipse": "Use visuals to determine and explain the foci of an ellipse",
+        "Introduction to hyperbolas": "Graphically introduce hyperbolas and their properties",
+        "Foci of a hyperbola": "Visualize the foci of hyperbolas and their role in defining the hyperbola's shape",
+        "Hyperbolas not centered at the origin": "Graph hyperbolas that are located away from the origin and analyze their properties"
+      },
+      "Vectors": {
+        "Vectors introduction": "Use diagrams to introduce vectors and their operations",
+        "Vector components": "Graphically break down vectors into their component parts",
+        "Magnitude of vectors": "Visualize the calculation of vector magnitude",
+        "Scalar multiplication": "Show the effects of scalar multiplication on vectors graphically",
+        "Vector addition and subtraction": "Demonstrate vector addition and subtraction using graphical methods",
+        "Direction of vectors": "Graphically determine the direction angles of vectors",
+        "Vector components from magnitude and direction": "Use diagrams to construct vectors from given magnitudes and directions",
+        "Adding vectors in magnitude and direction form": "Visualize the addition of vectors using polar coordinates",
+        "Vectors word problems": "Solve vector-based word problems using visual representations"
+      },
+      "Matrices": {
+        "Introduction to matrices": "Visualize the basic concepts and types of matrices",
+        "Using matrices to represent data": "Graphically organize data using matrices",
+        "Multiplying matrices by scalars": "Demonstrate scalar multiplication of matrices with visual aids",
+        "Adding and subtracting matrices": "Use visuals to show how matrices are added and subtracted",
+        "Properties of matrix addition & scalar multiplication": "Graphically explain the properties associated with matrix operations",
+        "Using matrices to manipulate data": "Apply matrices in data manipulation and visually demonstrate the results",
+        "Matrices as transformations of the plane": "Show how matrices can transform figures on a coordinate plane",
+        "Using matrices to transform the plane": "Graphically apply matrix transformations to plane figures",
+        "Transforming 3D and 4D vectors with matrices": "Use visuals to explain how matrices affect vectors in three and four dimensions",
+        "Multiplying matrices by matrices": "Graphically represent the process of matrix multiplication",
+        "Properties of matrix multiplication": "Use diagrams to explore the properties of multiplying matrices",
+        "Representing systems of equations with matrices": "Visualize the representation of systems of linear equations with matrices",
+        "Introduction to matrix inverses": "Introduce inverse matrices and their significance with visual aids",
+        "Finding inverses of 2x2 matrices": "Demonstrate how to find the inverse of a 2x2 matrix graphically",
+        "Solving linear systems with matrices": "Visualize the process of solving systems of equations using matrices"
+      },
+      "Probability and combinatorics": {
+        "Venn diagrams and the addition rule": "Graphically illustrate the use of Venn diagrams and the addition rule in probability",
+        "Multiplication rule for probabilities: Probability and combinatorics": "Demonstrate the multiplication rule using visual examples",
+        "Permutations": "Visualize permutations and their calculations for various scenarios",
+        "Combinations": "Graphically represent combinations and their applications in counting and probability",
+        "Probability using combinatorics": "Use visual aids to calculate probabilities using combinatorial methods",
+        "Probability distributions introduction": "Introduce probability distributions and their real-world applications visually",
+        "Theoretical & empirical probability distributions": "Differentiate between theoretical and empirical distributions using graphs",
+        "Decisions with probability": "Use visuals to analyze decisions based on different probability outcomes",
+        "Expected value": "Graphically calculate and interpret the expected value of random events"
+      },
+      "Series": {
+        "Geometric series": "Use visuals to explore the convergence and sum of geometric series",
+        "Geometric series (with summation notation)": "Graphically express geometric series using summation notation",
+        "The binomial theorem": "Visualize the expansion of polynomials using the binomial theorem",
+        "Arithmetic series": "Use diagrams to calculate the sum of arithmetic series and their applications"
+      },
+      "Limits and continuity": {
+        "Defining limits and using limit notation": "Graphically introduce the concept of limits and proper notation",
+        "Estimating limit values from graphs": "Use graphs to visually estimate the limits of functions",
+        "Estimating limit values from tables": "Graphically determine limits by analyzing function values in a table",
+        "Determining limits using algebraic properties of limits: limit properties": "Apply properties of limits to find limits visually",
+        "Determining limits using algebraic properties of limits: direct substitution": "Use direct substitution to determine limits visually",
+        "Determining limits using algebraic manipulation": "Manipulate expressions to find limits using visual aids",
+        "Selecting procedures for determining limits": "Choose appropriate methods to calculate various types of limits visually",
+        "Determining limits using the squeeze theorem": "Apply the squeeze theorem to establish limit existence with visual aids",
+        "Exploring types of discontinuities": "Identify and classify different types of discontinuities visually",
+        "Defining continuity at a point": "Define what it means for a function to be continuous at a point using graphs",
+        "Confirming continuity over an interval": "Verify the continuity of functions over specified intervals visually",
+        "Removing discontinuities": "Discuss methods for 'removing' removable discontinuities using visual examples",
+        "Connecting infinite limits and vertical asymptotes": "Relate infinite limits to the presence of vertical asymptotes visually",
+        "Connecting limits at infinity and horizontal asymptotes": "Examine the relationship between limits at infinity and horizontal asymptotes visually",
+        "Working with the intermediate value theorem": "Use the intermediate value theorem to solve problems involving continuity visually"
+      }
+    }
+  },
+  "High school statistics": {
+    "Without Image": {
+      "Displaying a single quantitative variable": {
+        "Frequency tables and dot plots": "Create and analyze frequency tables and dot plots to visualize data distributions",
+        "Histograms": "Construct and interpret histograms to summarize large data sets",
+        "Mean and median in data displays": "Identify and calculate the mean and median in various types of data displays",
+        "Interquartile range": "Calculate and analyze the interquartile range to evaluate data spread",
+        "Box and whisker plots": "Create box and whisker plots to visualize the five-number summary and outliers"
+      },
+      "Analyzing a single quantitative variable": {
+        "Standard deviation": "Calculate and interpret the standard deviation as a measure of data variability",
+        "Comparing distributions": "Compare distributions using measures of center, spread, and shape",
+        "Percentiles and z-scores": "Compute and analyze percentiles and z-scores to determine standard deviations from the mean",
+        "Normal distributions and the empirical rule": "Explain and use the 68-95-99.7 rule in the context of normal distributions",
+        "Normal distribution calculations": "Perform calculations using the properties of normal distributions to solve problems"
+      },
+      "Two-way tables": {
+        "Two-way tables introduction": "Introduce and construct two-way tables to summarize data for two categorical variables",
+        "Distributions in two-way tables": "Analyze and compare distributions within two-way tables"
+      },
+      "Scatterplots": {
+        "Fitting trend lines to scatterplots": "Fit and interpret trend lines in scatterplots to study relationships between variables",
+        "Analyzing trend lines in scatterplots": "Analyze the strength and direction of a linear relationship using trend lines",
+        "Residuals": "Calculate and interpret residuals to assess the fit of a linear model"
+      },
+      "Study design": {
+        "Introduction to planning a study": "Outline the steps in planning a statistical study, emphasizing the importance of study objectives",
+        "Potential problems with sampling": "Identify and discuss potential biases in sampling methods",
+        "Sampling methods": "Explain different sampling methods and their applications in data collection",
+        "Introduction to experimental design": "Discuss the principles of experimental design, including randomization and control",
+        "Inference and experiments": "Understand the role of statistical inference in experiments, including hypothesis testing"
+      },
+      "Probability": {
+        "Venn diagrams and the addition rule": "Use Venn diagrams to apply the addition rule in probability",
+        "Multiplication rule for probabilities": "Apply the multiplication rule to calculate the probability of combined events",
+        "Conditional probability": "Calculate and interpret conditional probabilities",
+        "Probability from simulations": "Perform simulations to estimate probabilities and interpret results",
+        "Permutations": "Calculate permutations and apply them to solve problems involving ordered arrangements",
+        "Combinations": "Compute combinations and apply them to solve problems involving selections",
+        "Probability using combinatorics": "Utilize combinatorial reasoning to solve complex probability problems"
+      },
+      "Probability distributions & expected value": {
+        "Probability distributions introduction": "Introduce probability distributions and distinguish between discrete and continuous types",
+        "Theoretical & empirical probability distributions": "Differentiate between theoretical and empirical probability distributions and discuss their uses",
+        "Decisions with probability": "Analyze decision-making processes using probability concepts",
+        "Expected value": "Calculate and interpret the expected value of a random variable and its applications in decision-making"
+      }
+    },
+    "With Image": {
+      "Displaying a single quantitative variable": {
+        "Frequency tables and dot plots": "Create and analyze frequency tables and dot plots using graphical tools to visualize data distributions",
+        "Histograms": "Construct and interpret histograms graphically to summarize large data sets",
+        "Mean and median in data displays": "Graphically determine and compare the mean and median in various types of data displays",
+        "Interquartile range": "Graphically calculate and analyze the interquartile range to evaluate data spread",
+        "Box and whisker plots": "Use visuals to create box and whisker plots to highlight the five-number summary and outliers"
+      },
+      "Analyzing a single quantitative variable": {
+        "Standard deviation": "Use graphs to visually demonstrate the calculation and implications of standard deviation",
+        "Comparing distributions": "Visually compare distributions using histograms or box plots, focusing on their center, spread, and shape",
+        "Percentiles and z-scores": "Illustrate the calculation of percentiles and z-scores and their implications for data interpretation",
+        "Normal distributions and the empirical rule": "Use visual aids to explain and apply the 68-95-99.7 rule for normal distributions",
+        "Normal distribution calculations": "Graphically perform calculations using the properties of normal distributions"
+      },
+      "Two-way tables": {
+        "Two-way tables introduction": "Graphically introduce and analyze two-way tables to summarize data for two categorical variables",
+        "Distributions in two-way tables": "Use visuals to analyze and compare distributions within two-way tables"
+      },
+      "Scatterplots": {
+        "Fitting trend lines to scatterplots": "Graphically fit and interpret trend lines in scatterplots to study relationships between variables",
+        "Analyzing trend lines in scatterplots": "Use graphs to analyze the strength and direction of a linear relationship",
+        "Residuals": "Visually present residuals to assess the fit of a linear model and identify patterns"
+      },
+      "Study design": {
+        "Introduction to planning a study": "Use visuals to explain the planning stages of a statistical study, emphasizing design principles",
+        "Potential problems with sampling": "Graphically illustrate potential sampling errors and biases",
+        "Sampling methods": "Visually compare different sampling methods and their effectiveness",
+        "Introduction to experimental design": "Use diagrams and visuals to discuss the key components of experimental design",
+        "Inference and experiments": "Graphically represent the concept of statistical inference in experiments"
+      },
+      "Probability": {
+        "Venn diagrams and the addition rule": "Use visuals with Venn diagrams to explain and apply the addition rule in probability",
+        "Multiplication rule for probabilities": "Graphically demonstrate the multiplication rule for determining the probability of combined events",
+        "Conditional probability": "Visually explain and calculate conditional probabilities",
+        "Probability from simulations": "Use graphical simulations to estimate probabilities and demonstrate randomness",
+        "Permutations": "Visually explain permutations and their applications in ordered scenarios",
+        "Combinations": "Use visuals to demonstrate combinations and their applications in various selection problems",
+        "Probability using combinatorics": "Graphically utilize combinatorial reasoning to solve complex probability problems"
+      },
+      "Probability distributions & expected value": {
+        "Probability distributions introduction": "Visually introduce probability distributions and highlight their real-world applications",
+        "Theoretical & empirical probability distributions": "Use visuals to differentiate between theoretical and empirical distributions and discuss their practical implications",
+        "Decisions with probability": "Graphically analyze decision-making processes using probability",
+        "Expected value": "Use graphical methods to calculate and interpret the expected value of random variables"
+      }
+    }
+  },
+  "Statistics and probability": {
+    "Without Image": {
+      "Analyzing categorical data": {
+        "Analyzing one categorical variable": "Identify patterns and make inferences from categorical data",
+        "Two-way tables": "Create and analyze two-way tables to explore relationships between two categorical variables",
+        "Distributions in two-way tables": "Analyze the distribution of categorical variables within two-way tables to understand conditional relationships"
+      },
+      "Displaying and comparing quantitative data": {
+        "Displaying quantitative data with graphs": "Use various types of graphs like histograms and stem-and-leaf plots to display quantitative data",
+        "Describing and comparing distributions": "Describe the shape, center, spread, and outliers in the distribution of datasets",
+        "More on data displays": "Explore advanced techniques for data visualization including box plots and cumulative frequency graphs"
+      },
+      "Summarizing quantitative data": {
+        "Measuring center in quantitative data": "Calculate measures of central tendency including the mean, median, and mode",
+        "More on mean and median": "Deepen understanding of the mean and median, including how to calculate and interpret them in skewed distributions",
+        "Interquartile range (IQR)": "Calculate and interpret the interquartile range as a measure of statistical dispersion",
+        "Variance and standard deviation of a population": "Calculate and interpret the variance and standard deviation for population data",
+        "Variance and standard deviation of a sample": "Determine the variance and standard deviation for sample data and understand differences from population measures",
+        "More on standard deviation": "Explore deeper insights into standard deviation and its implications for data variability",
+        "Box and whisker plots": "Create and interpret box plots to summarize data and identify outliers",
+        "Other measures of spread": "Discuss alternative measures of spread such as range and mean absolute deviation"
+      },
+      "Modeling data distributions": {
+        "Percentiles": "Calculate and use percentiles to interpret position within a data set",
+        "Z-scores": "Compute and interpret z-scores as standard scores indicating how many standard deviations an element is from the mean",
+        "Effects of linear transformations": "Understand how linear transformations of data affect the mean and standard deviation",
+        "Density curves": "Introduce density curves as models for the distribution of data, and discuss properties like median and mean",
+        "Normal distributions and the empirical rule": "Discuss the characteristics of normal distributions and apply the empirical rule (68-95-99.7 rule)",
+        "Normal distribution calculations": "Perform calculations involving the standard normal distribution",
+        "More on normal distributions": "Explore additional properties and applications of normal distributions in real-world contexts"
+      },
+      "Exploring bivariate numerical data": {
+        "Introduction to scatterplots": "Create and interpret scatterplots to examine relationships between two quantitative variables",
+        "Correlation coefficients": "Calculate and interpret correlation coefficients to quantify the strength and direction of a linear relationship",
+        "Introduction to trend lines": "Discuss the concept of trend lines and their role in summarizing relationships in scatterplot data",
+        "Least-squares regression equations": "Use least-squares regression to fit a line to data and predict outcomes",
+        "Assessing the fit in least-squares regression": "Evaluate the effectiveness of a regression model in explaining the data",
+        "More on regression": "Explore further concepts in regression analysis including multiple regression and model diagnostics"
+      },
+      "Study design": {
+        "Statistical questions": "Formulate statistical questions that can be answered with data collection and analysis",
+        "Sampling and observational studies": "Differentiate between types of sampling methods and their impact on the validity of conclusions",
+        "Sampling methods": "Examine various methods of sampling and their appropriateness for different statistical studies",
+        "Types of studies (experimental vs. observational)": "Contrast experimental and observational studies and discuss the implications for causal inference",
+        "Experiments": "Design experiments, including the use of random assignment to control groups to test hypotheses"
+      },
+      "Probability": {
+        "Basic theoretical probability": "Discuss the basics of probability theory, including definitions and properties",
+        "Probability using sample spaces": "Use sample spaces to calculate probabilities for various events",
+        "Basic set operations": "Apply basic set operations in the context of probability to solve problems",
+        "Experimental probability": "Calculate probabilities based on the outcomes of experiments",
+        "Randomness, probability, and simulation": "Explore the concepts of randomness and probability through simulations",
+        "Addition rule": "Use the addition rule to find probabilities of combined events",
+        "Multiplication rule for independent events": "Apply the multiplication rule to calculate probabilities of independent events occurring",
+        "Multiplication rule for dependent events": "Determine probabilities for dependent events using the multiplication rule",
+        "Conditional probability and independence": "Calculate conditional probabilities and discuss the concept of independence"
+      },
+      "Counting, permutations, and combinations": {
+        "Counting principle and factorial": "Apply the fundamental counting principle and use factorials in counting problems",
+        "Permutations": "Calculate the number of ways of arranging objects where order matters",
+        "Combinations": "Determine the number of ways to choose objects where order does not matter",
+        "Combinatorics and probability": "Use combinatorial methods to calculate probabilities, enhancing understanding of complex probability problems"
+      },
+      "Random variables": {
+        "Discrete random variables": "Define and calculate probabilities associated with discrete random variables",
+        "Continuous random variables": "Discuss continuous random variables and the use of probability density functions",
+        "Transforming random variables": "Explore how transformations affect random variables and their distributions",
+        "Combining random variables": "Analyze the distribution resulting from combining multiple random variables",
+        "Binomial random variables": "Model and calculate probabilities for binomial processes",
+        "Binomial mean and standard deviation formulas": "Calculate the mean and standard deviation for binomial random variables",
+        "Geometric random variables": "Discuss and model situations with geometric random variables",
+        "More on expected value": "Deepen understanding of expected value and its applications in decision-making",
+        "Poisson distribution": "Model and analyze event rates with the Poisson distribution"
+      },
+      "Sampling distributions": {
+        "What is a sampling distribution?": "Introduce sampling distributions and their importance in statistics",
+        "Sampling distribution of a sample proportion": "Examine the distribution of sample proportions and its applications",
+        "Sampling distribution of a sample mean": "Analyze the distribution of sample means and the central limit theorem"
+      },
+      "Confidence intervals": {
+        "Introduction to confidence intervals": "Discuss the concept and construction of confidence intervals",
+        "Estimating a population proportion": "Construct confidence intervals for estimating population proportions",
+        "Estimating a population mean": "Develop confidence intervals for estimating population means",
+        "More confidence interval videos": "Explore more complex scenarios and refinements in the construction of confidence intervals"
+      },
+      "Significance tests (hypothesis testing)": {
+        "The idea of significance tests": "Introduce the concept of hypothesis testing and its framework",
+        "Error probabilities and power": "Discuss the probabilities of Type I and Type II errors and the concept of statistical power",
+        "Tests about a population proportion": "Conduct and interpret hypothesis tests concerning population proportions",
+        "Tests about a population mean": "Perform hypothesis testing for population means",
+        "More significance testing videos": "Expand on complex hypothesis testing scenarios and their interpretations"
+      },
+      "Two-sample inference for the difference between groups": {
+        "Comparing two proportions": "Perform statistical tests to compare two proportions",
+        "Comparing two means": "Conduct tests to compare means from two different samples"
+      },
+      "Inference for categorical data (chi-square tests)": {
+        "Chi-square goodness-of-fit tests": "Perform and interpret chi-square goodness-of-fit tests to determine how well a model fits observed data",
+        "Chi-square tests for relationships": "Use chi-square tests to analyze relationships between categorical variables"
+      },
+      "Advanced regression (inference and transforming)": {
+        "Inference about slope": "Make inferences about the slope of regression models, including hypothesis testing",
+        "Nonlinear regression": "Explore and fit nonlinear regression models to data"
+      },
+      "Analysis of variance (ANOVA)": {
+        "Analysis of variance (ANOVA)": "Use ANOVA to compare means across multiple groups, discussing assumptions and interpretations"
+      }
+    },
+    "With Image": {
+      "Analyzing categorical data": {
+        "Analyzing one categorical variable": "Visually interpret categorical data through bar graphs and pie charts",
+        "Two-way tables": "Use images to enhance understanding of data distribution in two-way tables",
+        "Distributions in two-way tables": "Graphically analyze the distributions within two-way tables to spot trends and relationships"
+      },
+      "Displaying and comparing quantitative data": {
+        "Displaying quantitative data with graphs": "Utilize histograms, box plots, and stem-and-leaf plots to display quantitative data",
+        "Describing and comparing distributions": "Use visual comparisons to describe and compare data distributions across different datasets",
+        "More on data displays": "Introduce more complex graphical data displays and their interpretations"
+      },
+      "Summarizing quantitative data": {
+        "Measuring center in quantitative data": "Graphically show the calculation of mean, median, and mode",
+        "More on mean and median": "Use visuals to deepen understanding of mean and median, especially in skewed distributions",
+        "Interquartile range (IQR)": "Demonstrate how to calculate and visualize the IQR to assess data spread",
+        "Variance and standard deviation of a population": "Graphically explain the computation and significance of population variance and standard deviation",
+        "Variance and standard deviation of a sample": "Visualize sample variance and standard deviation calculations",
+        "More on standard deviation": "Provide visual insights into the variability measured by standard deviation",
+        "Box and whisker plots": "Create detailed box plots to visually summarize data sets",
+        "Other measures of spread": "Discuss and visualize other measures of spread like range and mean absolute deviation"
+      },
+      "Modeling data distributions": {
+        "Percentiles": "Use graphics to explain percentiles and their calculation in data sets",
+        "Z-scores": "Visually demonstrate how z-scores are calculated and their implications for data analysis",
+        "Effects of linear transformations": "Show the visual effects of linear transformations on data distributions",
+        "Density curves": "Introduce density curves with visuals to model data distributions",
+        "Normal distributions and the empirical rule": "Graphically illustrate normal distributions and the empirical 68-95-99.7 rule",
+        "Normal distribution calculations": "Use visuals to aid in performing calculations involving normal distributions",
+        "More on normal distributions": "Explore further properties of normal distributions with graphical examples"
+      },
+      "Exploring bivariate numerical data": {
+        "Introduction to scatterplots": "Create scatterplots to graphically analyze relationships between two quantitative variables",
+        "Correlation coefficients": "Visualize how correlation coefficients quantify the strength and direction of linear relationships",
+        "Introduction to trend lines": "Graphically discuss the role and calculation of trend lines in data analysis",
+        "Least-squares regression equations": "Use graphics to explain and apply least-squares regression in fitting data",
+        "Assessing the fit in least-squares regression": "Visually evaluate the fit of regression models and discuss potential residuals",
+        "More on regression": "Further explore regression analysis with visuals, including diagnostics and multiple regression"
+      },
+      "Study design": {
+        "Statistical questions": "Graphically represent how to formulate statistical questions that guide the design of studies",
+        "Sampling and observational studies": "Use images to differentiate between sampling methods and their impacts on study validity",
+        "Sampling methods": "Visually compare the effectiveness of different sampling methods",
+        "Types of studies (experimental vs. observational)": "Use visuals to contrast experimental and observational studies and their implications for causal claims",
+        "Experiments": "Graphically design experiments, highlighting the use of control and randomization"
+      },
+      "Probability": {
+        "Basic theoretical probability": "Use diagrams to explain fundamental concepts of probability",
+        "Probability using sample spaces": "Visually represent sample spaces and their use in calculating probabilities",
+        "Basic set operations": "Demonstrate basic set operations in probability with Venn diagrams",
+        "Experimental probability": "Graphically calculate probabilities based on experimental outcomes",
+        "Randomness, probability, and simulation": "Use visual simulations to explore concepts of randomness and probability",
+        "Addition rule": "Graphically apply the addition rule to solve problems involving multiple events",
+        "Multiplication rule for independent events": "Use diagrams to explain the multiplication rule for independent events",
+        "Multiplication rule for dependent events": "Visually demonstrate how to calculate probabilities for dependent events",
+        "Conditional probability and independence": "Use graphics to explain conditional probability and the concept of independence"
+      },
+      "Counting, permutations, and combinations": {
+        "Counting principle and factorial": "Visually explain the counting principle and the use of factorials",
+        "Permutations": "Use visuals to demonstrate the calculation of permutations",
+        "Combinations": "Graphically explain how combinations are calculated and used",
+        "Combinatorics and probability": "Visually apply combinatorial techniques to solve probability problems"
+      },
+      "Random variables": {
+        "Discrete random variables": "Introduce discrete random variables with visual examples showing their probability distributions",
+        "Continuous random variables": "Discuss continuous random variables and demonstrate probability density functions",
+        "Transforming random variables": "Show how transformations affect the distributions of random variables",
+        "Combining random variables": "Visualize the effects of combining random variables on their distributions",
+        "Binomial random variables": "Graphically model binomial processes and their probabilities",
+        "Binomial mean and standard deviation formulas": "Use visuals to calculate and interpret the mean and standard deviation for binomial distributions",
+        "Geometric random variables": "Introduce geometric random variables and their applications with graphics",
+        "More on expected value": "Graphically explore the concept of expected value and its implications",
+        "Poisson distribution": "Visualize the Poisson distribution and its applications in modeling event rates"
+      },
+      "Sampling distributions": {
+        "What is a sampling distribution?": "Use visuals to introduce and explain the concept of sampling distributions",
+        "Sampling distribution of a sample proportion": "Graphically analyze the distribution of sample proportions",
+        "Sampling distribution of a sample mean": "Visualize the distribution of sample means and discuss the central limit theorem"
+      },
+      "Confidence intervals": {
+        "Introduction to confidence intervals": "Use visuals to explain the construction and interpretation of confidence intervals",
+        "Estimating a population proportion": "Graphically construct confidence intervals for estimating population proportions",
+        "Estimating a population mean": "Use visual aids to develop confidence intervals for estimating population means",
+        "More confidence interval videos": "Provide further visual explanations of confidence interval calculations and their nuances"
+      },
+      "Significance tests (hypothesis testing)": {
+        "The idea of significance tests": "Visually introduce the concept and process of hypothesis testing",
+        "Error probabilities and power": "Use graphics to discuss the probabilities of Type I and Type II errors and the concept of power in testing",
+        "Tests about a population proportion": "Graphically conduct and interpret tests concerning population proportions",
+        "Tests about a population mean": "Use visual aids to perform hypothesis tests for population means",
+        "More significance testing videos": "Extend discussions on hypothesis testing with additional visual examples and complex scenarios"
+      },
+      "Two-sample inference for the difference between groups": {
+        "Comparing two proportions": "Visually perform statistical tests to compare two proportions",
+        "Comparing two means": "Use graphics to conduct tests comparing means from two different samples"
+      },
+      "Inference for categorical data (chi-square tests)": {
+        "Chi-square goodness-of-fit tests": "Use visuals to perform and interpret chi-square goodness-of-fit tests",
+        "Chi-square tests for relationships": "Graphically use chi-square tests to analyze relationships between categorical variables"
+      },
+      "Advanced regression (inference and transforming)": {
+        "Inference about slope": "Graphically make inferences about the slope of regression models",
+        "Nonlinear regression": "Use visuals to explore and fit nonlinear regression models to data"
+      },
+      "Analysis of variance (ANOVA)": {
+        "Analysis of variance (ANOVA)": "Visually introduce and explain the process and application of ANOVA in comparing multiple groups"
+      }
+    }
+  },
+  "Linear algebra": {
+    "Without Image": {
+      "Matrix transformations": {
+        "Functions and linear transformations": "Explore how functions can be represented as linear transformations",
+        "Linear transformation examples": "Examine examples of linear transformations from R^n to R^m",
+        "Transformations and matrix multiplication": "Study how matrix multiplication represents linear transformations",
+        "Inverse functions and transformations": "Discuss the relationship between inverse functions and transformations",
+        "Finding inverses and determinants": "Learn methods for finding matrix inverses and calculating determinants",
+        "More determinant depth": "Explore deeper properties and applications of determinants",
+        "Transpose of a matrix": "Understand the concept of the transpose of a matrix and its properties"
+      },
+      "Alternate coordinate systems (bases)": {
+        "Orthogonal complements": "Define and find orthogonal complements in vector spaces",
+        "Change of basis": "Learn how to change the basis of a vector space and the effects on vector representations",
+        "Orthonormal bases and the Gram-Schmidt process": "Apply the Gram-Schmidt process to form orthonormal bases",
+        "Eigen-everything": "Explore eigenvectors, eigenvalues, and their importance in transformations"
+      },
+      "Vectors and spaces": {
+        "Vectors": "Review the fundamental concepts of vectors in n-dimensional space",
+        "Linear combinations and spans": "Define and apply the concepts of linear combinations and span",
+        "Linear dependence and independence": "Distinguish between linearly dependent and independent sets of vectors",
+        "Subspaces and the basis for a subspace": "Identify subspaces and determine a basis for each subspace",
+        "Vector dot and cross products": "Calculate and interpret the dot and cross products of vectors",
+        "Matrices for solving systems by elimination": "Use matrices to solve systems of equations using Gaussian elimination",
+        "Null space and column space": "Define and compute the null space and column space of a matrix"
+      }
+    },
+    "With Image": {
+      "Matrix transformations": {
+        "Functions and linear transformations": "Visualize functions as linear transformations using geometric representations",
+        "Linear transformation examples": "Illustrate various linear transformations with graphical examples",
+        "Transformations and matrix multiplication": "Show how transformations correspond to matrix multiplication through visual examples",
+        "Inverse functions and transformations": "Graphically represent inverse transformations and their applications",
+        "Finding inverses and determinants": "Visualize the process of finding inverses and the calculation of determinants",
+        "More determinant depth": "Explore the geometric interpretation of determinants with visual aids",
+        "Transpose of a matrix": "Illustrate the transpose of matrices and discuss its effects on linear transformations"
+      },
+      "Alternate coordinate systems (bases)": {
+        "Orthogonal complements": "Use graphics to show orthogonal complements in vector spaces",
+        "Change of basis": "Visualize the process and effects of changing bases in vector spaces",
+        "Orthonormal bases and the Gram-Schmidt process": "Demonstrate the Gram-Schmidt process using visual examples",
+        "Eigen-everything": "Graphically explore the concepts of eigenvectors and eigenvalues and their applications"
+      },
+      "Vectors and spaces": {
+        "Vectors": "Use visualizations to explore vector concepts and operations in n-dimensional space",
+        "Linear combinations and spans": "Graphically represent linear combinations and vector spans",
+        "Linear dependence and independence": "Illustrate examples of linear dependence and independence with visual aids",
+        "Subspaces and the basis for a subspace": "Use diagrams to explain subspaces and how to find bases for them",
+        "Vector dot and cross products": "Demonstrate dot and cross products using graphical methods",
+        "Matrices for solving systems by elimination": "Visualize the process of solving systems of equations with matrix methods",
+        "Null space and column space": "Graphically represent the null space and column space of matrices"
+      }
+    }
+  },
+  "Differential equations": {
+    "Without Image": {
+      "First order differential equation": {
+        "Intro to differential equations": "Define differential equations and discuss their importance in modeling real-world phenomena",
+        "Slope fields": "Understand and create slope fields as a tool to visualize solutions to first-order differential equations",
+        "Euler's Method": "Implement Euler's Method to numerically approximate solutions of differential equations",
+        "Separable equations": "Solve separable differential equations analytically",
+        "Exponential models": "Apply differential equations to model natural growth and decay processes using exponential functions",
+        "Logistic models": "Analyze logistic growth models to understand population dynamics subject to carrying capacities",
+        "Exact equations and integrating factors": "Solve exact differential equations using integrating factors",
+        "Homogeneous equations": "Identify and solve homogeneous first-order differential equations"
+      },
+      "Second order differential equation": {
+        "Linear homogeneous equations": "Solve second-order linear homogeneous differential equations with constant coefficients",
+        "Complex and repeated roots of characteristic equation": "Address solutions to characteristic equations with complex or repeated roots",
+        "Method of undetermined coefficients": "Apply the method of undetermined coefficients to find particular solutions to nonhomogeneous differential equations"
+      },
+      "Laplace transform": {
+        "Laplace transform": "Introduce the Laplace transform as a method for solving linear differential equations",
+        "Properties of the Laplace transform": "Explore the key properties of the Laplace transform, including linearity and shift",
+        "Laplace transform to solve a differential equation": "Use the Laplace transform to solve differential equations, particularly those with initial conditions",
+        "The convolution integral": "Understand and apply the convolution integral in the context of inverse Laplace transforms"
+      }
+    },
+    "With Image": {
+      "First order differential equation": {
+        "Intro to differential equations": "Visualize the concept of differential equations and their applications through graphical examples",
+        "Slope fields": "Graphically represent slope fields to illustrate the direction fields of differential equations",
+        "Euler's Method": "Use visual step-by-step processes to demonstrate Euler’s Method for numerical approximations",
+        "Separable equations": "Visualize the process of solving separable equations graphically",
+        "Exponential models": "Graph exponential growth and decay in contexts such as populations and radioactive decay",
+        "Logistic models": "Illustrate the S-shaped curve of logistic models depicting controlled growth scenarios",
+        "Exact equations and integrating factors": "Use diagrams to show the application of integrating factors in solving differential equations",
+        "Homogeneous equations": "Graph solutions to homogeneous equations to demonstrate their properties"
+      },
+      "Second order differential equation": {
+        "Linear homogeneous equations": "Graphically demonstrate the solutions to linear homogeneous second-order differential equations",
+        "Complex and repeated roots of characteristic equation": "Visualize solutions involving complex and repeated roots using graphical methods",
+        "Method of undetermined coefficients": "Illustrate the method of undetermined coefficients with examples to find specific solutions"
+      },
+      "Laplace transform": {
+        "Laplace transform": "Use visuals to explain the concept and computation of the Laplace transform",
+        "Properties of the Laplace transform": "Graphically demonstrate key properties such as linearity and shifts in the Laplace domain",
+        "Laplace transform to solve a differential equation": "Show step-by-step graphical solutions of differential equations using Laplace transforms",
+        "The convolution integral": "Visualize the convolution integral to aid in understanding its application and significance"
+      }
+    }
+  },
+  "Multivariable calculus": {
+    "Without Image": {
+      "Thinking about multivariable functions": {
+        "Introduction to multivariable calculus": "Explore the concepts and applications of calculus involving functions of more than one variable.",
+        "Vectors and matrices": "Discuss the role of vectors and matrices in multivariable calculus for representing and manipulating multivariable functions.",
+        "Transformations": "Examine how transformations affect multivariable functions and their graphical representations."
+      },
+      "Derivatives of multivariable functions": {
+        "Partial derivatives": "Calculate and interpret partial derivatives as rates of change along axes in multivariable functions.",
+        "Gradient and directional derivatives": "Explore how the gradient vector of a function describes the direction and rate of greatest increase, and calculate directional derivatives.",
+        "Partial derivative and gradient (articles)": "Deepen understanding of partial derivatives and gradient vectors with conceptual and applied articles.",
+        "Partial derivatives of vector-valued functions": "Determine how to calculate partial derivatives for functions that output vectors rather than scalars.",
+        "Differentiating parametric curves": "Apply differentiation techniques to parametrically defined curves to understand their behavior and properties.",
+        "Multivariable chain rule": "Utilize the chain rule in the context of functions of several variables to compute derivatives of compositions of functions.",
+        "Differentiating vector-valued functions (articles)": "Investigate the nuances in differentiating functions that output vectors, including physical and geometric interpretations.",
+        "Curl": "Define and calculate the curl of a vector field to measure the rotation at a point.",
+        "Divergence": "Examine the divergence of a vector field to measure how much a vector field spreads out from a point.",
+        "Laplacian": "Discuss the Laplacian operator and its significance in measuring the rate at which a quantity diffuses through space.",
+        "Jacobian": "Understand the Jacobian matrix and determinant for transforming coordinates between systems."
+      },
+      "Applications of multivariable derivatives": {
+        "Tangent planes and linearization": "Find equations of tangent planes and linear approximations to function surfaces.",
+        "Quadratic approximations": "Extend linear approximations to include second-order terms for better accuracy near points of interest.",
+        "Optimizing multivariable functions": "Apply critical point analysis to find and classify local extrema of multivariable functions.",
+        "Optimizing multivariable functions (articles)": "Explore in-depth strategies and techniques for optimizing functions of several variables.",
+        "Lagrange multipliers and constrained optimization": "Use the method of Lagrange multipliers to find extrema of functions subject to constraints.",
+        "Constrained optimization (articles)": "Delve deeper into methods for solving optimization problems with constraints, using practical examples."
+      },
+      "Integrating multivariable functions": {
+        "Line integrals for scalar functions": "Compute line integrals of scalar fields along curves to capture the accumulation of a quantity.",
+        "Line integrals for scalar functions (articles)": "Further explore the concepts and calculation techniques for line integrals in scalar fields.",
+        "Line integrals in vector fields": "Perform line integrals in vector fields to measure work done by a force field along a path.",
+        "Line integrals in vector fields (articles)": "Study more about line integrals in vector fields with detailed examples and explanations.",
+        "Double integrals": "Evaluate double integrals over planar regions to calculate area, volume, and other physical quantities.",
+        "Double integrals (articles)": "Deepen understanding of double integrals with a focus on computation and applications.",
+        "Triple integrals": "Extend the concept of double integrals to compute triple integrals for volumes and other applications in three-dimensional space.",
+        "Change of variables": "Apply change of variable techniques in multiple integrals, including polar, cylindrical, and spherical coordinates.",
+        "Polar, spherical, and cylindrical coordinates": "Convert and compute integrals in these alternative coordinate systems to simplify integration tasks.",
+        "Surface integral preliminaries": "Prepare for computing surface integrals by understanding parameterized surfaces and their properties.",
+        "Surface integrals": "Integrate scalar and vector fields over surfaces to calculate flux and other surface-related quantities.",
+        "Surface integrals (articles)": "Explore advanced topics in surface integrals, including theoretical insights and complex examples.",
+        "Flux in 3D": "Calculate the flow of a vector field across a surface, applying the concept of flux in three dimensions.",
+        "Flux in 3D (articles)": "Further investigate the calculation and interpretation of flux through varied surfaces in three-dimensional spaces."
+      },
+      "Green's, Stokes', and the divergence theorems": {
+        "Formal definitions of div and curl (optional reading)": "Provide foundational knowledge on divergence and curl necessary for understanding vector field theorems.",
+        "Green's theorem": "Discuss Green's theorem as a relationship between a line integral around a simple closed curve and a double integral over the plane region it encloses.",
+        "Green's theorem (articles)": "Study in-depth explorations of Green's theorem and its proof, applications, and implications.",
+        "2D divergence theorem": "Examine the two-dimensional case of the divergence theorem, relating divergence in a region to the flux across its boundary.",
+        "Stokes' theorem": "Explain Stokes' theorem which generalizes Green's theorem to the curl of a vector field over a surface.",
+        "Stokes' theorem (articles)": "Engage with complex discussions on Stokes' theorem, including applications and examples.",
+        "3D divergence theorem": "Explore the three-dimensional divergence theorem for relating volume integrals to surface integrals.",
+        "Divergence theorem (articles)": "Delve into detailed articles on the divergence theorem, its proof, and applications in various fields.",
+        "Proof of Stokes' theorem": "Understand the mathematical proof behind Stokes' theorem to solidify knowledge of vector calculus.",
+        "Types of regions in three dimensions": "Classify regions in three dimensions to appropriately apply various multivariable calculus theorems.",
+        "Divergence theorem proof": "Study the proof of the divergence theorem to appreciate its derivation and significance in vector calculus."
+      }
+    },
+    "With Image": {
+      "Thinking about multivariable functions": {
+        "Visualizing scalar-valued functions": "Use graphical representations to explore scalar fields and their contours.",
+        "Visualizing vector-valued functions": "Demonstrate vector fields graphically to understand flow and directionality in multivariable functions.",
+        "Visualizing multivariable functions (articles)": "Provide in-depth visual explorations of multivariable functions to enhance conceptual understanding."
+      }
+    }
+  },
+  "AP Calculus BC": {
+    "Without Image": {
+      "Limits and Continuity": {
+        "Exploring Limits": "Examine the behavior of functions as they approach specific points or infinity, and learn to compute limits.",
+        "Understanding Continuity in Functions": "Analyze and classify functions as continuous or discontinuous, and discuss the implications of continuity in calculus.",
+        "Applying Limits to Define Continuity": "Use limits to formally define continuity and explore the properties of continuous functions on closed intervals."
+      },
+      "Differentiation: Definition and Fundamental Properties": {
+        "Applying Limits to Define Derivatives": "Understand the derivative as a limit, exploring foundational concepts and definitions in differentiation.",
+        "Practicing Derivation Techniques": "Master basic and advanced techniques of differentiation, including product, quotient, and chain rules.",
+        "Developing Mathematical Reasoning Through Differentiation": "Apply differentiation to develop deeper mathematical reasoning and solve related theoretical problems."
+      },
+      "Differentiation: Composite, Implicit, and Inverse Functions": {
+        "Mastering the Chain Rule": "Gain proficiency in using the chain rule for differentiating composite functions, and explore its applications.",
+        "Exploring New Differentiation Techniques": "Dive into advanced differentiation techniques including implicit differentiation and differentiation of inverse functions.",
+        "Introduction to Higher-Order Derivatives": "Explore the concepts of second and higher-order derivatives and their applications in physics and engineering."
+      },
+      "Contextual Applications of Differentiation": {
+        "Real-World Problem Solving with Derivatives": "Apply derivatives to solve real-world problems involving rates of change and optimization scenarios.",
+        "Understanding Instantaneous Rates of Change": "Explore the concept of instantaneous rates of change and apply it to motion and other dynamic contexts.",
+        "Determining Limits of Indeterminate Forms": "Utilize L'Hôpital's Rule to resolve limits resulting in indeterminate forms."
+      },
+      "Analytical Applications of Differentiation": {
+        "Exploring Graphs and Their Derivatives": "Investigate how derivatives affect the shape of graphs, focusing on concepts such as concavity and inflection points.",
+        "Optimization Problems in Calculus": "Solve optimization problems using derivatives to find local maxima and minima, and analyze their applications in economics and science."
+      },
+      "Integration and Accumulation of Change": {
+        "Defining Definite Integrals with Limits": "Understand the definition of the definite integral as the limit of a Riemann sum and explore its calculation.",
+        "Connecting Integration and Differentiation Through the Fundamental Theorem": "Discuss the Fundamental Theorem of Calculus and its role in linking differentiation and integration.",
+        "Practicing Integration Techniques": "Practice various techniques of integration including substitution, integration by parts, and partial fractions."
+      },
+      "Differential Equations": {
+        "Solving Specific Differential Equations": "Explore methods for solving first and second-order differential equations that model physical phenomena.",
+        "Understanding Exponential Growth and Decay": "Model natural processes such as population growth and radioactive decay using differential equations.",
+        "Exploring Logistic Models": "Analyze logistic growth models that incorporate limits to growth, such as carrying capacity."
+      },
+      "Applications of Integration": {
+        "Solving Problems Involving Net Change": "Apply integration to compute net changes over intervals, particularly in contexts like physics and economics.",
+        "Finding Lengths, Areas, and Volumes with Integration": "Use integration to determine lengths of curves, areas between curves, and volumes of solids of revolution."
+      },
+      "Parametric Equations, Polar Coordinates, and Vector-Valued Functions": {
+        "Solving Parametric and Vector-Valued Functions": "Investigate and solve calculus problems involving parametric equations and vector-valued functions.",
+        "Exploring Polar Curves": "Study curves expressed in polar coordinates, focusing on their properties and how to integrate and differentiate them.",
+        "Applying Differentiation and Integration to Curves": "Apply techniques of differentiation and integration to curves described by parametric and polar equations."
+      },
+      "Infinite Sequences and Series": {
+        "Understanding Convergence and Divergence": "Examine series and sequences to determine their convergence or divergence using tests such as the Ratio Test, Root Test, and Integral Test.",
+        "Representing Functions as Infinite Series": "Explore how functions can be represented as power series and Taylor series, including applications and error analysis.",
+        "Error Analysis in Series Approximations": "Analyze the error involved in approximating functions with series, emphasizing practical implications and accuracy."
+      }
+    }
+  },
+  "AP Calculus AB": {
+    "Without Image": {
+      "Limits and Continuity": {
+        "Introduction to Limits": "Explore the foundational concept of limits, essential for understanding calculus, through practical examples and graph analysis.",
+        "Exploring Continuity in Functions": "Analyze functions for continuity at a point and over intervals, including different types and causes of discontinuities.",
+        "Understanding Limits in Mathematical Reasoning": "Use limits to develop a deeper understanding of calculus and solve problems involving instantaneous rates of change and slope of curves."
+      },
+      "Differentiation: Definition and Fundamental Properties": {
+        "Defining the Derivative through Limits": "Understand the definition of the derivative as the limit of a difference quotient and its geometric interpretation as a slope of a tangent line.",
+        "Developing Skills in Differentiation": "Practice basic and advanced differentiation techniques, including derivatives of polynomials, trigonometric, exponential, and logarithmic functions.",
+        "Enhancing Mathematical Reasoning with Derivatives": "Apply derivatives to solve complex problems and enhance mathematical reasoning, focusing on real-world applications such as physics and economics."
+      },
+      "Differentiation: Composite, Implicit, and Inverse Functions": {
+        "Mastering the Chain Rule": "Become proficient in applying the chain rule to compute derivatives of composite functions, an essential skill in calculus.",
+        "Exploring Advanced Differentiation Techniques": "Dive into more complex techniques of differentiation, including implicit and inverse function differentiation.",
+        "Introduction to Higher-Order Derivatives": "Explore concepts of second and higher-order derivatives and their applications, particularly in motion and optimization problems."
+      },
+      "Contextual Applications of Differentiation": {
+        "Real-World Problems Solving with Derivatives": "Apply derivatives to model and solve real-world problems, such as optimization and rate-of-change scenarios in engineering and economics.",
+        "Analyzing Instantaneous Rates of Change": "Utilize derivatives to analyze rates of change in various contexts, enhancing understanding of dynamic systems.",
+        "Mathematical Reasoning for Indeterminate Forms": "Explore strategies like L'Hopital's Rule for solving limits that result in indeterminate forms, vital for calculus-based problem-solving."
+      },
+      "Analytical Applications of Differentiation": {
+        "Relationships Among Functions and Their Derivatives": "Investigate how derivatives can reveal detailed aspects of function behavior, such as intervals of increase, decrease, and points of inflection.",
+        "Optimization Problems in Calculus": "Tackle calculus-based optimization problems in one or more variables, applying derivatives to find and verify maximum and minimum values."
+      },
+      "Integration and Accumulation of Change": {
+        "Defining Definite Integrals": "Understand and apply the concept of definite integrals for finding area under curves and other physical quantities like distance and volume.",
+        "The Fundamental Theorem of Calculus": "Connect differentiation and integration through the Fundamental Theorem of Calculus, demonstrating how integrals can be used to compute accumulations.",
+        "Integration Techniques": "Master various techniques of integration, including substitution, integration by parts, and numeric approximations."
+      },
+      "Differential Equations": {
+        "Solving Specific Differential Equations": "Learn methods for solving first-order differential equations and their applications in modeling natural phenomena.",
+        "Applications in Exponential Growth and Decay": "Model and solve problems involving exponential growth and decay processes, such as population dynamics and radioactive decay."
+      },
+      "Applications of Integration": {
+        "Mathematical Connections for Problem Solving": "Explore the integral as a tool for solving a wide range of problems in physics, engineering, and economics, emphasizing net change and accumulated quantities.",
+        "Calculating Net Change": "Use integration to calculate the net change in quantities over intervals, crucial for understanding total impact in various scenarios.",
+        "Finding Areas and Volumes": "Apply integration techniques to calculate areas between curves and volumes of solids by revolution, enhancing spatial reasoning and calculation skills."
+      }
+    }
+  },
+  "AP Statistics": {
+    "Without Image": {
+      "Exploring One-Variable Data": {
+        "Introduction to Statistical Variation": "Discuss fundamental concepts of statistical variation and how it is observed in real data.",
+        "Data Representation Practices": "Learn effective ways to represent data using graphical and numerical methods to describe and summarize data sets.",
+        "Data Distribution Descriptions": "Analyze the shape, center, and spread of distributions and learn to describe them quantitatively.",
+        "Drawing Conclusions from Theoretical Distributions": "Understand theoretical distributions such as the normal distribution and how they can be used to model real-world data."
+      },
+      "Exploring Two-Variable Data": {
+        "Representation of Two-Variable Data": "Explore methods for displaying and analyzing two-variable data sets to identify relationships and trends.",
+        "Comparison of Data Distributions": "Compare data distributions using statistical measures and visualizations to understand differences and similarities.",
+        "Describing Variable Relationships": "Analyze relationships between variables using correlation and regression techniques.",
+        "Predictive Modeling": "Develop models to predict outcomes based on observed data, using statistical methods to estimate accuracy and reliability."
+      },
+      "Collecting Data": {
+        "Study Design Fundamentals": "Learn about different types of study designs and their implications for the validity and reliability of data.",
+        "The Role of Randomization": "Explore the importance of randomization in study designs to avoid bias and improve the quality of data inference.",
+        "Interpreting Study Results": "Understand how to interpret the results of studies and tests, considering potential biases and errors.",
+        "Drawing Appropriate Conclusions": "Practice drawing appropriate and justified conclusions from statistical studies, considering the limitations of the data."
+      },
+      "Probability, Random Variables, and Probability Distributions": {
+        "Probability Basics": "Master the basics of probability theory, including the rules of probability and common misconceptions.",
+        "Introduction to Probability Distributions": "Explore different types of probability distributions and their applications in analyzing random events.",
+        "Basis for Statistical Inference": "Understand how probability forms the basis for making statistical inferences and predictions."
+      },
+      "Sampling Distributions": {
+        "Understanding Sampling Distributions": "Discuss the concept of sampling distributions as a bridge between sample data and population parameters.",
+        "Population Characteristic Estimation": "Explore methods for estimating population characteristics from sample data, emphasizing accuracy and reliability.",
+        "Quantifying Confidence": "Learn to quantify the confidence in estimations using confidence intervals and other statistical measures."
+      },
+      "Inference for Categorical Data: Proportions": {
+        "Inference Procedures for Proportions": "Apply statistical methods to make inferences and draw conclusions about population proportions based on sample data.",
+        "Foundations of Statistical Inference": "Explore the foundational concepts behind making inferences about categorical data, including hypothesis testing and error analysis."
+      },
+      "Inference for Quantitative Data: Means": {
+        "Analyzing Quantitative Data": "Utilize statistical techniques to analyze quantitative data and make inferences about population means.",
+        "Inferences about Population Means": "Apply methods to make accurate inferences about population means based on sample data, considering the assumptions and limitations involved."
+      },
+      "Inference for Categorical Data: Chi-Square": {
+        "Chi-Square Tests Introduction": "Introduce chi-square tests for goodness-of-fit and independence as tools for analyzing categorical data.",
+        "Analysis of Two or More Categorical Variables": "Use chi-square tests to examine relationships between multiple categorical variables."
+      },
+      "Inference for Quantitative Data: Slopes": {
+        "Regression Model Slope Analysis": "Evaluate the significance and confidence intervals of slopes in regression models to understand relationships in data.",
+        "Confidence Intervals and Significance Tests for Slopes": "Apply techniques to assess the reliability and significance of regression slopes."
+      }
+    }
+  }
+}

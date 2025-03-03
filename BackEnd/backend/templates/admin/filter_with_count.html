@@ -1,0 +1,13 @@
+{% load i18n %}
+<div class="filter-wrapper">
+    <div class="filter-label">
+        {{ spec.title }}
+    </div>
+    <ul>
+        {% for choice in spec.choices %}
+            <li{% if choice.selected %} class="selected"{% endif %}>
+                <a href="{{ choice.query_string }}">{{ choice.display }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,9 @@
+/* StoreCarousel.css */
+
+.store-carousel .slick-track {
+  justify-content: flex-start !important;
+}
+
+.store-carousel .slick-slide > div {
+  width: 300px !important; /* 각 슬라이드의 너비 고정 */
+}

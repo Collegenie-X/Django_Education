@@ -1,0 +1,83 @@
+// Global styles
+
+@import 'variable';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 97vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+// Global color
+.gray {
+  color: var(--color-gray-4);
+}
+
+.grayBg {
+  color: var(--color-white);
+  background-color: var(--color-gray-4);
+}
+
+.red {
+  color: var(--color-red-1);
+}
+
+.redBg {
+  color: var(--color-white);
+  background-color: var(--color-red-1);
+}
+
+.blue {
+  color: var(--color-blue-main);
+}
+
+.blueBg {
+  color: var(--color-white);
+  background-color: var(--color-blue-main);
+}
+
+.green {
+  color: var(--color-green-1);
+}
+
+.greenBg {
+  color: var(--color-white);
+  background-color: var(--color-green-1);
+}
+
+*:focus {
+  outline-color: var(--color-blue-main);
+}
+
+// 폰트 font
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../../public/fonts/Pretendard-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../../public/fonts/Pretendard-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Pretendard', sans-serif;
+  background-color: var(--color-bg);
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
