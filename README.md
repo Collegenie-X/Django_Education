@@ -19,7 +19,7 @@
 Migrations for 'downloads':
   downloads/migrations/0001_initial.py
     + Create model Download
-> django-pythonkimjongphil@kimjongphilui-Mac-Studio backend % python manage.py migrate   
+> python manage.py migrate   
 Operations to perform:
   Apply all migrations: accounts, admin, auth, carts, contenttypes, downloads, payments, popups, reports, reviews, sessions, store, token_blacklist
 ```
