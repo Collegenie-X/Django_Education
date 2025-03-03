@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     "carts",
     "notices",
     "popups",
+    "rangefilter",
     "django_admin_logs",
 ]
 

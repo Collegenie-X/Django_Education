@@ -12,6 +12,18 @@
 >  - python manage.py makemigrations 
 >  - python manage.py migrate   
 
+
+#### makemigrations
+```
+(django-python) django-pythonkimjongphil@kimjongphilui-Mac-Studio backend % python manage.py makemigrations downloads
+Migrations for 'downloads':
+  downloads/migrations/0001_initial.py
+    + Create model Download
+(django-python) django-pythonkimjongphil@kimjongphilui-Mac-Studio backend % python manage.py migrate   
+Operations to perform:
+  Apply all migrations: accounts, admin, auth, carts, contenttypes, downloads, payments, popups, reports, reviews, sessions, store, token_blacklist
+```
+
 ### requirements.txt 
 
 > - amqp
