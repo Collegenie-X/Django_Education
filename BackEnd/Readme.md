@@ -195,3 +195,6 @@ steps: - uses: actions/checkout@v2
             echo "Starting server..."
             pkill gunicorn
             gunicorn --bind 0.0.0.0:8000 backend.wsgi:application --daemon
+
+
+#### 

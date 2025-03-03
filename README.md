@@ -8,6 +8,10 @@
 >  - cd backend
 >  - python3 manage.py runserver 0.0.0.0:8000 
 
+>  - python manage.py collectstatic
+>  - python manage.py makemigrations 
+>  - python manage.py migrate   
+
 ### requirements.txt 
 
 > - amqp
