@@ -253,8 +253,9 @@ class ProblemAdmin(admin.ModelAdmin):
                 else:
                     # image 필드가 없을 때 image_url 사용
                     img_url = (
-                        "https://studyola-main-dir.s3.us-east-2.amazonaws.com/"
-                        + image.image_url
+                        settings.MEDIA_URL + image.image_url
+                        if image.image_url
+                        else None
                     )
 
                 # 이미지 URL이 있는 경우 태그 생성
@@ -373,8 +374,8 @@ class ProblemAdmin(admin.ModelAdmin):
         "Science": "images/Science_title.jpg",
         "STEM": "images/Stem_title.png",
         "Puzzle": "images/puzzle_title.jpg",
-        "SAT-Math": "images/SAT_Math_title.jpg",
-        "SAT-English": "images/SAT_English_title.jpg",
+        "SAT_Math": "images/SAT_Math_title.jpg",
+        "SAT_English": "images/SAT_English_title_gmgq4nx.jpg",
         "Multiple Choice": "images/Multiple_Choice.jpg",
         "Short Answer": "images/Short_Answer.jpg",
         "Mathematical Modeling": "images/Mathematical_Modeling.jpg",
@@ -439,9 +440,9 @@ class ProblemAdmin(admin.ModelAdmin):
                     # image_key = None
                     image_key = self.subject_to_image_key.get("Math")
             elif problem.subject == "SAT" and problem.type == "Math":
-                image_key = self.subject_to_image_key.get("SAT-Math")
+                image_key = self.subject_to_image_key.get("SAT_Math")
             elif problem.subject == "SAT" and problem.type == "English":
-                image_key = self.subject_to_image_key.get("SAT-English")
+                image_key = self.subject_to_image_key.get("SAT_English")
             else:
                 image_key = self.subject_to_image_key.get(problem.subject)
 

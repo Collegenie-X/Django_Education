@@ -3,6 +3,8 @@
 
 >  - python3.13 -m venv django-env
 >  - source django-env/bin/activate
+>  - .\python-env\Scripts\activate
+>  - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 >  - pip install -r requirements.txt
 >
 >  - cd backend
@@ -11,6 +13,9 @@
 >  - python manage.py collectstatic
 >  - python manage.py makemigrations 
 >  - python manage.py migrate   
+
+
+
 
 
 #### makemigrations

@@ -6,9 +6,9 @@ const nextConfig = {
   reactStrictMode: true,
 
   images: {
-    domains: ['http://127.0.0.1'],
+    domains: ['127.0.0.1'],
   },
-
+  
   // api 요청 주소 숨김
   async rewrites() {
     return [
