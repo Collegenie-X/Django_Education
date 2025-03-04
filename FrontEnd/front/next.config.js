@@ -6,7 +6,7 @@ const nextConfig = {
   reactStrictMode: true,
 
   images: {
-    domains: ['studyola-main-dir.s3.us-east-2.amazonaws.com'],
+    domains: ['http://127.0.0.1'],
   },
 
   // api 요청 주소 숨김

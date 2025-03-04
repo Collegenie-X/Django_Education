@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     "carts",
     "notices",
     "popups",
+    "rangefilter",
     "django_admin_logs",
 ]
 
@@ -221,14 +222,31 @@ FIREBASE_SERVICE_ACCOUNT_KEY = os.getenv("FIREBASE_SERVICE_ACCOUNT_KEY")
 
 HOST_URL = os.getenv("HOST_URL")
 
-STATICFILES_STORAGE = "storages.backends.s3boto3.S3Boto3Storage"
-STATIC_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/static/"
+# AWS S3 사용 설정 주석 처리
+# STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+# STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/static/'
+# DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+# MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/media/'
 
-DEFAULT_FILE_STORAGE = "storages.backends.s3boto3.S3Boto3Storage"
-MEDIA_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/media/"
 
-STATIC_ROOT = os.path.join(BASE_DIR, "static/")
-MEDIA_ROOT = os.path.join(BASE_DIR, "media/")
+# 정적 파일 관련 설정
+STATIC_URL = "/static/"
+
+# [중요] 개발 시 소스 정적파일이 들어있는 폴더들을 지정
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static"),  # "static/" 폴더를 직접 지정
+]
+
+# collectstatic으로 모아질 최종 경로
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+
+# 미디어(사용자 업로드) 관련 설정
+MEDIA_URL = "/media/"
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")
+
+# 로컬 파일 스토리지 사용
+STATICFILES_STORAGE = "django.contrib.staticfiles.storage.StaticFilesStorage"
+DEFAULT_FILE_STORAGE = "django.core.files.storage.FileSystemStorage"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field

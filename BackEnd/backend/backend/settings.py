@@ -228,15 +228,25 @@ HOST_URL = os.getenv("HOST_URL")
 # DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 # MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/media/'
 
-# 로컬 개발용 기본 설정
-STATICFILES_STORAGE = "django.contrib.staticfiles.storage.StaticFilesStorage"
+
+# 정적 파일 관련 설정
 STATIC_URL = "/static/"
-DEFAULT_FILE_STORAGE = "django.core.files.storage.FileSystemStorage"
+
+# [중요] 개발 시 소스 정적파일이 들어있는 폴더들을 지정
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static"),  # "static/" 폴더를 직접 지정
+]
+
+# collectstatic으로 모아질 최종 경로
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+
+# 미디어(사용자 업로드) 관련 설정
 MEDIA_URL = "/media/"
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
-
-STATIC_ROOT = os.path.join(BASE_DIR, "static/")
-MEDIA_ROOT = os.path.join(BASE_DIR, "media/")
+# 로컬 파일 스토리지 사용
+STATICFILES_STORAGE = "django.contrib.staticfiles.storage.StaticFilesStorage"
+DEFAULT_FILE_STORAGE = "django.core.files.storage.FileSystemStorage"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
