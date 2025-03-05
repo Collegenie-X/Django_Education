@@ -14,8 +14,12 @@
 >  - python manage.py makemigrations 
 >  - python manage.py migrate   
 
+```
+https://www.teacherspayteachers.com/
+```
 
-
+### Github desktoptop Setup download 
+https://drive.google.com/file/d/12b-jwVJU9wIZYVHCrRUU2_6DlD7Q4MjZ/view?usp=sharing
 
 
 #### makemigrations
