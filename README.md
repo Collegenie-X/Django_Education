@@ -33,6 +33,25 @@ Operations to perform:
   Apply all migrations: accounts, admin, auth, carts, contenttypes, downloads, payments, popups, reports, reviews, sessions, store, token_blacklist
 ```
 
+> brew install nvm
+
+```
+echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
+echo '[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"' >> ~/.zshrc
+echo '[ -s "/opt/homebrew/opt/nvm/etc/bash_completion" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion"' >> ~/.zshrc
+
+source ~/.zshrc
+```
+
+> nvm install --lts
+> nvm install v19 
+> nvm list 
+> nvm use --lts
+> nvm alias default node
+
+
+
+
 ### requirements.txt 
 
 > - amqp
