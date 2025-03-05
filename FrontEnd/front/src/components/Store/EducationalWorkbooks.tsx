@@ -9,24 +9,24 @@ interface SlideData {
 }
 
 const slides: SlideData[] = [
-  { image: '/images/main/banner_xl_1.png', url: '/subject' },
-  { image: '/images/main/banner_xl_2.png', url: '/subject' },
-  { image: '/images/main/banner_xl_3.png', url: '/free' },
-  // { image: '/images/main/banner_xl_4.png', url: 'https://studyola.com/' },
+  { image: '/images/new_main/banner_xl_1.png', url: '/subject' },
+  { image: '/images/new_main/banner_xl_2.png', url: '/subject' },
+  { image: '/images/new_main/banner_xl_3.png', url: '/free' },
+  { image: '/images/new_main/banner_xl_4.png', url: 'https://studyola.com/' },
 ];
 
 const md_slides: SlideData[] = [
-  { image: '/images/main/banner_md_1.png', url: '/subject' },
-  { image: '/images/main/banner_md_2.png', url: '/subject' },
-  { image: '/images/main/banner_md_3.png', url: '/free' },
-  // { image: '/images/banner_md_4.png', url: 'https://studyola.com/' },
+  { image: '/images/new_main/banner_md_1.png', url: '/subject' },
+  { image: '/images/new_main/banner_md_2.png', url: '/subject' },
+  { image: '/images/new_main/banner_md_3.png', url: '/free' },
+  { image: '/images/new_main/banner_md_4.png', url: 'https://studyola.com/' },
 ];
 
 const sm_slides: SlideData[] = [
-  { image: '/images/main/banner_sm_1.png', url: '/subject' },
-  { image: '/images/main/banner_sm_2.png', url: '/subject' },
-  { image: '/images/main/banner_sm_3.png', url: '/free' },
-  // { image: '/images/banner_sm_4.png', url: 'https://studyola.com/' },
+  { image: '/images/new_main/banner_sm_1.png', url: '/subject' },
+  { image: '/images/new_main/banner_sm_2.png', url: '/subject' },
+  { image: '/images/new_main/banner_sm_3.png', url: '/free' },
+  { image: '/images/new_main/banner_sm_4.png', url: 'https://studyola.com/' },
 ];
 
 const BannerSlider: React.FC = () => {
@@ -84,7 +84,8 @@ const BannerSlider: React.FC = () => {
   return (
     <Box position="relative" mb={isXs || isSm ? 5 : 15} sx={{ mx: -2 }}>
       {/* 모든 화면 크기에서 슬라이드 렌더링 */}
-      {currentSlides.map((slide, index) => (
+      {currentSlides?.map((slide, index) => (
+        
         <Box
           key={index}
           mx="auto"
@@ -108,12 +109,15 @@ const BannerSlider: React.FC = () => {
             },
           }}
         >
-          <Image
-            src={slide.image}
-            alt="Slider Image"
-            fill
-            style={{ objectFit: 'fill' }}
-          />
+        <Image
+          src={slide.image}
+          alt="Slider Image"
+          fill
+          unoptimized
+          onError={(e) => console.error("이미지 로드 실패:", slide.image, e)}
+          style={{ objectFit: 'fill' }}
+        />
+
 
           {/* 인디케이터 */}
           <Box
