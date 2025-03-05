@@ -43,11 +43,11 @@ echo '[ -s "/opt/homebrew/opt/nvm/etc/bash_completion" ] && \. "/opt/homebrew/op
 source ~/.zshrc
 ```
 
-> nvm install --lts
-> nvm install v19 
-> nvm list 
-> nvm use --lts
-> nvm alias default node
+> - nvm install --lts
+> - nvm install v19 
+> - nvm list 
+> - nvm use --lts
+> - nvm alias default node
 
 
 
