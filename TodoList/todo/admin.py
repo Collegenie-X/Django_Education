@@ -1,6 +1,9 @@
 from django.contrib import admin
 from .models import Todo
 
+# admin.site.register(Todo)  # 관리자 페이지에 모델 등록
+
+
 
 @admin.register(Todo)
 class TodoAdmin(admin.ModelAdmin):
