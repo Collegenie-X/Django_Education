@@ -50,12 +50,12 @@
 ################################################################
 > ### 1) 모든 Todo 목록 조회
 ```
-curl -X GET http://127.0.0.1:8000/api/todos/
+curl.exe -X GET http://127.0.0.1:8000/api/todos/
 ```
 
 ### 2) 새 Todo 작성 (POST)
 ```
-curl -X POST http://127.0.0.1:8000/api/todos/ \
+curl.exe -X POST http://127.0.0.1:8000/api/todos/ \
      -H "Content-Type: application/json" \
      -d '{
            "title": "테스트 할 일",
@@ -66,17 +66,17 @@ curl -X POST http://127.0.0.1:8000/api/todos/ \
 ```
 ### 3) 특정 Todo 조회 (GET)
 ```
-curl -X GET http://127.0.0.1:8000/api/todos/1/
+curl.exe -X GET http://127.0.0.1:8000/api/todos/1/
 ```
 
 ### 4) Todo 부분 수정 (PATCH)
 ```
-curl -X PATCH http://127.0.0.1:8000/api/todos/1/ \
+curl.exe -X PATCH http://127.0.0.1:8000/api/todos/1/ \
      -H "Content-Type: application/json" \
      -d '{"is_done": true}'
 ```
 ### 5) Todo 삭제 (DELETE)
 ```
-curl -X DELETE http://127.0.0.1:8000/api/todos/1/
+curl.exe -X DELETE http://127.0.0.1:8000/api/todos/1/
 ```
 ################################################################
