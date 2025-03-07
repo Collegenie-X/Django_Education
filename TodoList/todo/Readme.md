@@ -55,14 +55,7 @@ curl.exe -X GET http://127.0.0.1:8000/api/todos/
 
 ### 2) 새 Todo 작성 (POST)
 ```
-curl.exe -X POST http://127.0.0.1:8000/api/todos/ \
-     -H "Content-Type: application/json" \
-     -d '{
-           "title": "테스트 할 일",
-           "description": "테스트 상세내용",
-           "priority": 3, 
-           "is_done": false
-         }'
+curl.exe -X POST "http://127.0.0.1:8000/api/todos/" -H "Content-Type: application/json" -d "{\"title\": \"테스트 할 일\", \"description\": \"테스트 상세내용\", \"priority\": 3, \"is_done\": false}"
 ```
 ### 3) 특정 Todo 조회 (GET)
 ```
