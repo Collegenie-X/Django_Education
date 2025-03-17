@@ -25,13 +25,20 @@ https://drive.google.com/file/d/12b-jwVJU9wIZYVHCrRUU2_6DlD7Q4MjZ/view?usp=shari
 #### makemigrations
 ```
 > python manage.py makemigrations downloads
-Migrations for 'downloads':
-  downloads/migrations/0001_initial.py
-    + Create model Download
 > python manage.py migrate   
-Operations to perform:
-  Apply all migrations: accounts, admin, auth, carts, contenttypes, downloads, payments, popups, reports, reviews, sessions, store, token_blacklist
 ```
+
+### startapp 생성 
+```
+>  python manage.py startapp account
+```
+
+
+
+
+
+
+
 
 ### requirements.txt 
 

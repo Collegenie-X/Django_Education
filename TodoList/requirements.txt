@@ -2,4 +2,6 @@ Django
 django-filter 
 djangorestframework 
 Markdown 
+djangorestframework_simplejwt
+
 
