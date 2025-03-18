@@ -57,13 +57,13 @@ class LoginUserView(View):
         email = request.POST.get("email")
         password = request.POST.get("password")
 
-        user = authenticate(request, email=email, password=password)
-        if user is not None:
+        user_db = authenticate(request, email=email, password=password)
+        if user_db is not None:
             # Django의 세션 기반 로그인(옵션)
-            login(request, user)
+            login(request, user_db)
 
             # Simple JWT의 토큰 생성
-            refresh = RefreshToken.for_user(user)
+            refresh = RefreshToken.for_user(user_db)
             access_token = str(refresh.access_token)
             refresh_token = str(refresh)
 

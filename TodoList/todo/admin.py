@@ -10,7 +10,7 @@ class TodoAdmin(admin.ModelAdmin):
     Todo 모델을 Django 관리자 페이지에서 보다 편리하게 관리하기 위한 설정
     """
 
-    list_display = ("id", "title", "priority", "is_done", "created_at")
+    list_display = ("id", "owner", "title", "priority", "is_done", "created_at")
     list_display_links = ("id", "title")
     list_filter = ("is_done", "created_at")
     search_fields = ("title", "description")

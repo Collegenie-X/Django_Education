@@ -1,6 +1,7 @@
 # todo/models.py
 from django.db import models
 from django.contrib.auth import get_user_model
+from account.models import CustomUser
 
 
 class Priority(models.IntegerChoices):
@@ -18,7 +19,8 @@ class Todo(models.Model):
 
     # 추가: 유저별로 연결 (외래키)
     owner = models.ForeignKey(
-        get_user_model(),  # 혹은 settings.AUTH_USER_MODEL
+        get_user_model(),
+        # CustomUser,  # 혹은 settings.AUTH_USER_MODEL
         on_delete=models.CASCADE,
         related_name="todos",
     )
