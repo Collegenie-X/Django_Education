@@ -50,13 +50,15 @@
 ################################################################
 > ### 1) 모든 Todo 목록 조회
 ```
-curl -X GET http://127.0.0.1:8000/api/todos/
+curl -X GET http://127.0.0.1:8000/api/v1/todos/
+-H "Authorization: Bearer <ACCESS_TOKEN>"
 ```
 
 ### 2) 새 Todo 작성 (POST)
 ```
-curl -X POST http://127.0.0.1:8000/api/todos/ \     
-     -H "Content-Type: application/json" \     
+curl -X POST http://127.0.0.1:8000/api/v1/todos/ \     
+     -H "Content-Type: application/json" \    
+     -H "Authorization: Bearer <ACCESS_TOKEN>" 
      -d '{
            "title": "테스트 할 일",
            "description": "테스트 상세내용",
@@ -66,17 +68,86 @@ curl -X POST http://127.0.0.1:8000/api/todos/ \
 ```
 ### 3) 특정 Todo 조회 (GET)
 ```
-curl -X GET http://127.0.0.1:8000/api/todos/1/
+curl -X GET http://127.0.0.1:8000/api/v1/todos/1/
 ```
 
 ### 4) Todo 부분 수정 (PATCH)
 ```
-curl -X PATCH http://127.0.0.1:8000/api/todos/1/ \
+curl -X PATCH http://127.0.0.1:8000/api/v1/todos/1/ \
      -H "Content-Type: application/json" \
+     -H "Authorization: Bearer <ACCESS_TOKEN>"
      -d '{"is_done": true}'
 ```
 ### 5) Todo 삭제 (DELETE)
 ```
-curl -X DELETE http://127.0.0.1:8000/api/todos/1/
+curl -X DELETE http://127.0.0.1:8000/api/v1/todos/1/
 ```
 ################################################################
+
+
+### 마이그레이션 파일 존재 여부 
+python manage.py makemigrations todo
+
+
+### 회원 가입 
+```
+curl -X POST http://127.0.0.1:8000/api/v1/signup/ \
+  -H "Content-Type: application/json" \
+
+  -d '{
+        "email": "user@example.com",
+        "password": "12345678"
+      }'
+
+{
+  "message": "User created successfully",
+  "access": "eyJhbGc..",   // JWT Access Token
+  "refresh": "eyJhbGci..." // JWT Refresh Token
+}
+```
+
+### 로그인 
+```
+curl -X POST http://127.0.0.1:8000/api/v1/login/ \
+  -H "Content-Type: application/json" \
+  -d '{
+        "email": "user@example.com",
+        "password": "12345678"
+      }'
+
+{
+  "message": "Login successful",
+  "access": "eyJhbGc..",   // JWT Access Token
+  "refresh": "eyJhbGci..." // JWT Refresh Token
+}
+```
+
+### 토큰 발급 (Simple JWT 기본)
+'''
+curl -X POST http://127.0.0.1:8000/api/v1/token/ \
+  -H "Content-Type: application/json" \  
+  -d '{
+        "email": "user@example.com",
+        "password": "12345678"
+      }'
+
+'''
+
+### 토큰 재발급 
+```
+curl -X POST http://127.0.0.1:8000/api/v1/token/refresh/ \
+  -H "Content-Type: application/json" \
+  -d '{
+        "refresh": "eyJhbGciOiJIUz..."
+      }'
+```
+
+### 토큰 유효성 검사 
+```
+curl -X POST http://127.0.0.1:8000/api/v1/token/verify/ \
+  -H "Content-Type: application/json" \
+  -d '{
+        "token": "<ACCESS_TOKEN>"
+      }'
+```
+

@@ -40,6 +40,7 @@ https://drive.google.com/file/d/12b-jwVJU9wIZYVHCrRUU2_6DlD7Q4MjZ/view?usp=shari
 
 
 
+
 ### requirements.txt 
 
 > - amqp
