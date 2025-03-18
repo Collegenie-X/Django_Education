@@ -85,6 +85,7 @@ curl -X DELETE http://127.0.0.1:8000/api/v1/todos/1/
 ################################################################
 
 
+
 ### 마이그레이션 파일 존재 여부 
 python manage.py makemigrations todo
 
@@ -150,4 +151,10 @@ curl -X POST http://127.0.0.1:8000/api/v1/token/verify/ \
         "token": "<ACCESS_TOKEN>"
       }'
 ```
+
+
+ python manage.py createsuperuser 
+ 
+ admin@abc.com
+ 1234
 
