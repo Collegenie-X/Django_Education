@@ -80,3 +80,9 @@ curl -X PATCH http://127.0.0.1:8000/api/todos/1/ \
 curl -X DELETE http://127.0.0.1:8000/api/todos/1/
 ```
 ################################################################
+
+
+ python manage.py createsuperuser 
+ 
+ admin@abc.com
+ 1234

@@ -31,7 +31,8 @@ class TodoListCreateAPIView(APIView):
         return Response(serializer.data, status=status.HTTP_200_OK)
 
     def post(self, request):
-        serializer = TodoSerializer(data=request.data)
+        serializer = TodoSerializer(data=request.data, 
+                                    context={"request": request})
         if serializer.is_valid():
             # 직접 owner를 지정하여 저장
             serializer.save(owner=request.user)
