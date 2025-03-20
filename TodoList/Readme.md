@@ -30,7 +30,7 @@
  > - python manage.py createsuperuser
 
  ```
- id : jp798
+ id : amdin@abc.com
  pw : 1234
 
  (venv) django-pythonkimjongphil@kimjongphilui-Mac-Studio TodoList % python manage.py createsuperuser
