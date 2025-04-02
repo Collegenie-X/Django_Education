@@ -11,12 +11,6 @@ from django.core.files.storage import FileSystemStorage
 
 import json
 
-# JSON 파일 경로
-json_file_path = "./store/america_category_english.json"
-
-# JSON 파일 읽기
-with open(json_file_path, "r") as file:
-    json_data = json.load(file)
 
 # UNIT_CHOICES와 DETAIL_CHOICES 추출
 unit_choices = set()
@@ -31,9 +25,6 @@ def extract_choices(data):
         else:
             detail_choices.add(key)
 
-
-# 데이터에서 선택지 추출
-extract_choices(json_data)
 
 # 정렬된 리스트로 변환
 unit_choices_list = sorted(list(unit_choices))
