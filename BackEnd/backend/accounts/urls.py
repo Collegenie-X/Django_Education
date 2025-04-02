@@ -1,6 +1,7 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import UserViewSet, VerifyEmail ,ForgotPasswordAPI, GoogleSignInView , VerifyTokenView
+from .viewsKakao import KakaoSignInView 
 
 
 router = DefaultRouter()
@@ -12,4 +13,5 @@ urlpatterns = [
     path('verify-email/', VerifyEmail.as_view(), name='verify_email_api'),
     path('forgot-password/', ForgotPasswordAPI.as_view(), name='forgot_password_api'),
     path('verify/token/', VerifyTokenView.as_view(), name='verify_token'),    
+    path("signin/kakao/", KakaoSignInView.as_view(), name="kakao_signin"),  # 추가
 ]

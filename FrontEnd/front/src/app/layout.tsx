@@ -44,6 +44,11 @@ export default function RootLayout({
           `}
         </Script>
 
+        <script 
+          src="https://developers.kakao.com/sdk/js/kakao.js" 
+          async 
+          defer
+        ></script>
         {/* 기존 Google Analytics 및 Google Ads 스크립트 */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-3LRTM2ZHNW"

@@ -7,6 +7,12 @@ const nextConfig = {
 
   images: {
     domains: ['127.0.0.1'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+    ],
   },
   
   // api 요청 주소 숨김
@@ -92,6 +98,10 @@ const nextConfig = {
       {
         source: '/downloads/:downloadID',
         destination: `${baseURL}/downloads/:downloadID/`,
+      },
+      {
+        source: '/signin/kakao',
+        destination: `${baseURL}/accounts/signin/kakao/`,
       },
     ];
   },
